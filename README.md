@@ -2,12 +2,14 @@
 
 ## Repository Structure
 
+```
 .
 ├── literature
 │   └── mhw_review.pdf
 ├── notes.md
 ├── README.md
 └── requirements.txt
+```
 
 2 directories, 4 files (excluding `venv` directory)
 
