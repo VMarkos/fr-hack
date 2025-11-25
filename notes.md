@@ -8,6 +8,10 @@ Some notes from related literature:
 
 ### About Marine Heatwaves
 
+Notes about MHWs in the Med Sea.
+
+#### Demographics
+
 **Marine Heatwave (MHW):** Episodes of exceptionally high ocean temperatures that persist for a long period / long periods of time (they are typically statistically rare). They are observed both on coastal areas and open seas.
 
 Some important surface MHWs include:
@@ -31,6 +35,19 @@ In a nutshell, a (surface) MHW could be classified as an (upwards) anomaly in th
 **Key reason** for surface MHWs appears to be the long term SST warming trend observed in the recent decades (1982+).
 
 There are also subsurface MHWs, which are most intensely observed at 55m depth, most probably due to the longest heat preservation at deeper sea levels. Such MHWs are more frequent in the last decades (1982+), while, notably, some subsurface events might not have a directly observable impact on the surface level.
+
+#### Spatial Distribution Across The Basin
+
+1. NW Med Sea, Adriatic and Aegean, subsurface Levantine seas often suffer from higher intensity MHWs.
+2. Longer MHWs occur in the Balearics, surface Levantine and across the basin at depth, away from boundary currents.
+3. Areas with larger water inflow, e.g., Alboran sea, NE Aegean, Ierapetra, experience shorter MHWs.
+4. The most MHWs were observed in coastal and not offshore locations, e.g., Ligurian sea, Lions Gulf.
+5. For subsurface MHWs, there is a NW - SE variability, with most events occur in W Med Sea.
+6. A notable characteristic is that the *surface to subsurface MHW propagation is not uniform across time and space,* e.g., 2012 - 2020 surface MHWs spread vertically eastwards, up to 50-150m in W Med Sea, 200m in Adriatic and 400-700m in E Med Sea.
+
+#### MHW Mechanisms
+
+
 
 ### About The Problem
 
