@@ -1,0 +1,2 @@
+# Ignore local venv, in directory `venv`
+venv/
