@@ -60,6 +60,8 @@ There are also subsurface MHWs, which are most intensely observed at 55m depth, 
 8. Climate modes do not appear to have a clear causal relationship with MHWs, although correlations do exist.
 9. Wind mixing might also contribute to the penetration of surface MHWs to subsurface.
 10. Also, downward MHW penetration appears to be more prevalent in autumn.
+11. In the past 4 decades, 53% of MHWs coincided with atmospheric events, strongly correlated with AHWs.
+12. Intense storms (e.g., Medicanes) might affect MHWs (e.g., Medicane Scott, 2019).
 
 ### About The Problem
 
@@ -68,12 +70,21 @@ Maybe useful for a presentation:
 1. Annual Sea Surface Temperature (SST) increment rate ~0,034 - 0,041 Celsius / year vs global trend of 0,0015 C / y.
 2. Largest warming trend in the Aegean and Levantine seas (0,05 C / y).
 3. Similarly, on the west in the Balearic, Tyrrhenian and Adriatic seas.
-4. ...
+4. *There are factors mentioned in the "Marine Ecosystem Impact" section that might prove useful, too.*
+5. *Similarly for the "Socio-economic Impact".*
 
 ## Implementation
 
-Notes regarding implementation
+Notes regarding implementation, past ideas, ones of our own etc.
 
-### Predicting Temperature
+### Past Approaches
+
+Notes on past approacehs.
+
+### Our Approaches
+
+Notes on our approaches.
+
+#### Predicting Temperature
 
 **Idea:** We first predict temperature based on past data and then spot any MHWs by properly annotating our predictions.
