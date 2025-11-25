@@ -47,7 +47,19 @@ There are also subsurface MHWs, which are most intensely observed at 55m depth, 
 
 #### MHW Mechanisms
 
-
+1. Both air-sea heat fluxes and local oceanographic processes affect MHWs (as expected).
+2. Most Med Sea MHWs are affected by:
+    * Radiation fluxes;
+    * Persistent low wind speed;
+    * Surface heat loss supression.
+3. Atmospheric Heatwaves (AHWs) also play an important role.
+4. At a regional scale, oceanographic influences might prove more important, e.g., due to advection (the transfer of a substance throughout the body of a fluid).
+5. Local conditions like heavy rainfalls which might cool and maybe postpone / delay MHW events (Genoa) or more saline water influx (Black Sea to NE Aegean) which might facilitate MHWs.
+6. Similarly, the formation of ocean currents (long-lived eddies?) might affect regional MHWs.
+7. In a similar way, AHWs also influence MHWs positively.
+8. Climate modes do not appear to have a clear causal relationship with MHWs, although correlations do exist.
+9. Wind mixing might also contribute to the penetration of surface MHWs to subsurface.
+10. Also, downward MHW penetration appears to be more prevalent in autumn.
 
 ### About The Problem
 
@@ -58,3 +70,10 @@ Maybe useful for a presentation:
 3. Similarly, on the west in the Balearic, Tyrrhenian and Adriatic seas.
 4. ...
 
+## Implementation
+
+Notes regarding implementation
+
+### Predicting Temperature
+
+**Idea:** We first predict temperature based on past data and then spot any MHWs by properly annotating our predictions.
