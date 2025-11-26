@@ -1,5 +1,9 @@
 # Ignore local venv, in directory `venv`
 venv/
 
+# Ignore pycache / cpython files
+*.pyc
+**/__pycache__/
+
 # Ignore large dataset file
 datasets/local/copmed.nc
