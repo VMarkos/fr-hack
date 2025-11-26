@@ -1,0 +1,106 @@
+# Investigation File generated for Scientific Data with Investigation File Authoring Tool version 0.1.0 on 23/01/2018 - This metadata file is CC0
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	GAZ	SIO	ERO	OBI	ENVO	NCIT	EFO	PTO	IAO
+Term Source File	http://data.bioontology.org/ontologies/GAZ	http://data.bioontology.org/ontologies/SIO	http://data.bioontology.org/ontologies/ERO	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/ENVO	http://data.bioontology.org/ontologies/NCIT	http://data.bioontology.org/ontologies/EFO	http://data.bioontology.org/ontologies/PTO	http://data.bioontology.org/ontologies/IAO
+Term Source Version	$Revision: 1.512 $	1.39.0	2013-08-02	2014-08-18		17.06d	2.89	September 2016	2015-02-23
+Term Source Description	Gazetteer	Semanticscience Integrated Ontology	Eagle-I Research Resource Ontology	Ontology for Biomedical Investigations	Environment Ontology	National Cancer Institute Thesaurus	Experimental Factor Ontology	Plant Trait Ontology	Information Artifact Ontology
+INVESTIGATION
+Investigation Identifier
+Investigation Title
+Investigation Description
+Investigation Submission Date
+Investigation Public Release Date
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person Mid Initials
+Investigation Person First Name
+Investigation Person Address
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Email
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	10.1038/sdata.2018.22
+Study Title	GlobTherm, a global database on thermal tolerances for aquatic and terrestrial organisms
+Study Submission Date	01/03/2017
+Study Public Release Date	13/03/2018
+Study Description	http://www.nature.com/articles/sdata201822#abstract
+Study File Name	s_study_Bennett.txt
+Comment[Subject Keywords]	/;//;//;//
+Comment[Manuscript Licence]	CC BY-4.0
+Comment[Experimental Metadata Licence]	CC0
+Comment[Supplementary Information File Name]	
+Comment[Supplementary Information File Type]	x-zip-compressed
+Comment[Supplementary Information File URL]	http://www.nature.com/articles/sdata201822#supplementary-information
+Comment[Data Repository]	Dryad Digital Repository
+Comment[Data Record Accession]	doi:10.5061/dryad.1cv08
+Comment[Data Record URI]	https://doi.org/10.5061/dryad.1cv08
+STUDY DESIGN DESCRIPTORS
+Study Design Type	data integration objective	database creation objective
+Study Design Type Term Accession Number	ERO:0100092	http://www.ebi.ac.uk/efo/swo/SWO_0000509
+Study Design Type Term Source REF	ERO	ERO
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name	geographical location	biome	species
+Study Factor Type	geographic location	biome	Species
+Study Factor Type Term Accession Number	GAZ:00000448	ENVO:00000428	NCIT:C45293
+Study Factor Type Term Source REF	OBI	ENVO	NCIT
+STUDY ASSAYS
+Study Assay Measurement Type	heat tolerance	cold tolerance	Acclimatization
+Study Assay Measurement Type Term Accession Number	TO:0000259	TO:0000303	NCIT:C68767
+Study Assay Measurement Type Term Source REF	EFO	PTO	NCIT
+Study Assay Technology Type	data item extraction from journal article	data item extraction from journal article	data item extraction from journal article
+Study Assay Technology Type Term Accession Number	IAO:0000443	IAO:0000443	IAO:0000443
+Study Assay Technology Type Term Source REF	IAO	OBI	OBI
+Study Assay Technology Platform	""	""	""
+Study Assay File Name	a_heat_Bennett.txt	a_cold_Bennett.txt	a_acclimation_Bennett.txt
+STUDY PROTOCOLS
+Study Protocol Name	Data source	Data integration
+Study Protocol Type	selection	data item extraction from journal article
+Study Protocol Type Term Accession Number	OBI:0001928	IAO:0000443
+Study Protocol Type Term Source REF	OBI	OBI
+Study Protocol Description		
+Study Protocol URI	""	""
+Study Protocol Version		
+Study Protocol Parameters Name	""	""
+Study Protocol Parameters Name Term Accession Number	""	""
+Study Protocol Parameters Name Term Source REF	""	""
+Study Protocol Components Name	""	""
+Study Protocol Components Type	""	""
+Study Protocol Components Type Term Accession Number	""	""
+Study Protocol Components Type Term Source REF	""	""
+STUDY CONTACTS
+Study Person Last Name	Bennett	Calosi	Clusella-Trullas	Martínez	Sunday	Algar	Araújo	Hawkins	Keith	Kühn	Rahbek	Rodríguez	Singer	Villalobos	Ángel Olalla-Tárraga	Morales-Castilla
+Study Person First Name	Joanne M.	Piero	Susana	Brezo	Jennifer	Adam C.	Miguel B.	Bradford A.	Sally	Ingolf	Carsten	Laura	Alexander	Fabricio	Miguel	Ignacio
+Study Person Mid Initials																
+Study Person Email	joanne.bennett@idiv.de	""	""	""	""	""	""	""	""	""	""	""	""	""	""	""
+Study Person Phone																
+Study Person Fax																
+Study Person Address																
+Study Person Affiliation	German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Germany.	Département de Biologie, Chimie et Géographie, Université du Québec à Rimouski, Rimouski, QC G5L 3A1, Canada.	Centre for Invasion Biology, Department of Botany and Zoology, Stellenbosch University, Private Bag X1, Matieland 7602, South Africa.	Department of Biology and Geology, Physics & Inorganic Chemistry, Rey Juan Carlos University,  28933, Móstoles, Spain.	Biodiversity Research Centre, University of British Columbia, Vancouver, BC, Canada.	School of Geography, University of Nottingham, Nottingham, NG7 2RD, UK.	Department of Biogeography and Global Change, National Museum of Natural Sciences, CSIC, Calle Jose Gutierrez Abascal, 2, 28006, Madrid, Spain.	Department of Ecology and Evolutionary Biology, University of California Irvine, CA 92697, USA.	Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen Ø, Denmark.	German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Germany.	Center for Macroecology, Evolution and Climate, Natural History Museum of Denmark, University of Copenhagen, Copenhagen Ø, Denmark.	Department of Biology and Geology, Physics & Inorganic Chemistry, Rey Juan Carlos University,  28933, Móstoles, Spain.	Swedish University of Agricultural Sciences, Swedish Species Information Centre, Box 7007, SE-750 07, Uppsala, Sweden.	Departamento de Ecologia, Instituto de Ciências Biológicas, Universidade Federal de Goiás, Goiânia, Goiás, Brazil.	Department of Biology and Geology, Physics & Inorganic Chemistry, Rey Juan Carlos University,  28933, Móstoles, Spain.	Arnold Arboretum, Harvard University, Boston, USA.
+Study Person Roles																
+Study Person Roles Term Accession Number																
+Study Person Roles Term Source REF																
+Comment[Study Person ORCID]						0000-0001-8095-0097			0000-0002-9634-2763	0000-0003-1691-8249				0000-0002-5230-2217		
+Comment[Funder]																
+Comment[FundRef ID]																
+Comment[Funder Term Source REF]																
+Comment[Grant Identifier]																

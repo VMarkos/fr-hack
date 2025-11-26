@@ -1,0 +1,15 @@
+Source Name	Characteristics[geographical location]	Term Source REF	Term Accession Number	Characteristics[environment type]	Term Source REF	Term Accession Number	Protocol REF	Sample Name	Material Type	Term Source REF	Term Accession Number	Factor Value[geographical location]	Factor Value[biome]	Factor Value[species]
+literature search	Africa	GAZ	GAZ:00000457	aquatic biome	ENVO	ENVO:00002030	Data source	Africa_aquatic	peer reviewed article	SIO	SIO:001029	Africa	aquatic	species
+literature search	Africa	GAZ	GAZ:00000457	terrestrial biome	ENVO	ENVO:00000446	Data source	Africa_terrestrial	peer reviewed article	SIO	SIO:001029	Africa	terrestrial	species
+literature search	Antarctica	GAZ	GAZ:00000462	aquatic biome	ENVO	ENVO:00002030	Data source	Antarctica_aquatic	peer reviewed article	SIO	SIO:001029	Antarctica	aquatic	species
+literature search	Antarctica	GAZ	GAZ:00000462	terrestrial biome	ENVO	ENVO:00000446	Data source	Antarctica_terrestrial	peer reviewed article	SIO	SIO:001029	Antarctica	terrestrial	species
+literature search	Asia	GAZ	GAZ:00000465	aquatic biome	ENVO	ENVO:00002030	Data source	Asia_aquatic	peer reviewed article	SIO	SIO:001029	Asia	aquatic	species
+literature search	Asia	GAZ	GAZ:00000465	terrestrial biome	ENVO	ENVO:00000446	Data source	Asia_terrestrial	peer reviewed article	SIO	SIO:001029	Asia	terrestrial	species
+literature search	Europe	GAZ	GAZ:00000464	aquatic biome	ENVO	ENVO:00002030	Data source	Europe_aquatic	peer reviewed article	SIO	SIO:001029	Europe	aquatic	species
+literature search	Europe	GAZ	GAZ:00000464	terrestrial biome	ENVO	ENVO:00000446	Data source	Europe_terrestrial	peer reviewed article	SIO	SIO:001029	Europe	terrestrial	species
+literature search	North America	GAZ	GAZ:00000458	aquatic biome	ENVO	ENVO:00002030	Data source	North America_aquatic	peer reviewed article	SIO	SIO:001029	North America	aquatic	species
+literature search	North America	GAZ	GAZ:00000458	terrestrial biome	ENVO	ENVO:00000446	Data source	North America_terrestrial	peer reviewed article	SIO	SIO:001029	North America	terrestrial	species
+literature search	Oceania	GAZ	GAZ:00000468	aquatic biome	ENVO	ENVO:00002030	Data source	Oceania_aquatic	peer reviewed article	SIO	SIO:001029	Oceania	aquatic	species
+literature search	Oceania	GAZ	GAZ:00000468	terrestrial biome	ENVO	ENVO:00000446	Data source	Oceania_terrestrial	peer reviewed article	SIO	SIO:001029	Oceania	terrestrial	species
+literature search	South America	GAZ	GAZ:00000459	aquatic biome	ENVO	ENVO:00002030	Data source	South America_aquatic	peer reviewed article	SIO	SIO:001029	South America	aquatic	species
+literature search	South America	GAZ	GAZ:00000459	terrestrial biome	ENVO	ENVO:00000446	Data source	South America_terrestrial	peer reviewed article	SIO	SIO:001029	South America	terrestrial	species

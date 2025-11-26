@@ -1,0 +1,29 @@
+Sample Name	Protocol REF	Assay Name	Raw Data File	Comment[Data Repository]	Comment[Data Record Accession]	Comment[Data Record URI]
+Africa_aquatic	Data integration	Africa_aquatic_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Africa_terrestrial	Data integration	Africa_terrestrial_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Antarctica_aquatic	Data integration	Antarctica_aquatic_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Antarctica_terrestrial	Data integration	Antarctica_terrestrial_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Asia_aquatic	Data integration	Asia_aquatic_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Asia_terrestrial	Data integration	Asia_terrestrial_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Europe_aquatic	Data integration	Europe_aquatic_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Europe_terrestrial	Data integration	Europe_terrestrial_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+North America_aquatic	Data integration	North America_aquatic_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+North America_terrestrial	Data integration	North America_terrestrial_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Oceania_aquatic	Data integration	Oceania_aquatic_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Oceania_terrestrial	Data integration	Oceania_terrestrial_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+South America_aquatic	Data integration	South America_aquatic_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+South America_terrestrial	Data integration	South America_terrestrial_Excel format	GlobalTherm_upload_10_11_17.xlsx	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Africa_aquatic	Data integration	Africa_aquatic_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Africa_terrestrial	Data integration	Africa_terrestrial_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Antarctica_aquatic	Data integration	Antarctica_aquatic_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Antarctica_terrestrial	Data integration	Antarctica_terrestrial_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Asia_aquatic	Data integration	Asia_aquatic_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Asia_terrestrial	Data integration	Asia_terrestrial_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Europe_aquatic	Data integration	Europe_aquatic_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Europe_terrestrial	Data integration	Europe_terrestrial_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+North America_aquatic	Data integration	North America_aquatic_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+North America_terrestrial	Data integration	North America_terrestrial_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Oceania_aquatic	Data integration	Oceania_aquatic_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+Oceania_terrestrial	Data integration	Oceania_terrestrial_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+South America_aquatic	Data integration	South America_aquatic_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08
+South America_terrestrial	Data integration	South America_terrestrial_csv format	 GlobalTherm_upload_02_11_17.csv	Dryad Digital Repository	doi:10.5061/dryad.1cv08	https://doi.org/10.5061/dryad.1cv08

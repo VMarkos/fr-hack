@@ -1,0 +1,789 @@
+Species,Name,Family,Habitat,Length (cm),Trophic Level,Status
+ablennes hians,flat needlefish,belonidae,reef-associated,140.0 tl,4.2,introduced
+abudefduf saxatilis,sergeant-major,pomacentridae,reef-associated,22.9 tl,3.8,introduced
+abudefduf vaigiensis,indo-pacific sergeant,pomacentridae,reef-associated,20.0 tl,2.6,introduced
+acanthocybium solandri,wahoo,scombridae,pelagic-oceanic,250.0 tl,4.3,native
+acantholabrus palloni,scale-rayed wrasse,labridae,reef-associated,25.0 tl,3.5,native
+acanthopagrus bifasciatus,twobar seabream,sparidae,reef-associated,36.2 sl,3.4,introduced
+acanthostracion notacanthus,island cowfish,ostraciidae,demersal,50.0 tl,2.4,questionable
+acanthostracion quadricornis,scrawled cowfish,ostraciidae,reef-associated,55.0 tl,2.7,questionable
+acanthurus coeruleus,blue tang surgeonfish,acanthuridae,reef-associated,39.0 tl,2.2,introduced
+acanthurus monroviae,monrovia doctorfish,acanthuridae,demersal,45.0 sl,2.5,native
+acipenser naccarii,adriatic sturgeon,acipenseridae,demersal,200.0 tl,3.3,endemic
+acipenser stellatus,starry sturgeon,acipenseridae,demersal,250.0 tl,3.5,native
+acipenser sturio,sturgeon,acipenseridae,demersal,600.0 tl,3.5,native
+aetomylaeus bovinus,bull ray,myliobatidae,benthopelagic,222.0 wd,3.8,native
+aidablennius sphynx,,blenniidae,demersal,8.0 tl,2.1,native
+alepes djedaba,shrimp scad,carangidae,reef-associated,40.0 tl,3.6,introduced
+alepisaurus ferox,long snouted lancetfish,alepisauridae,bathypelagic,215.0 tl,4.0,error
+alepocephalus rostratus,risso's smooth-head,alepocephalidae,bathydemersal,50.0 sl,3.7,native
+alopias superciliosus,bigeye thresher,alopiidae,pelagic-oceanic,488.0 tl,4.5,native
+alopias vulpinus,thresher,alopiidae,pelagic-oceanic,573.3 tl,4.5,native
+alosa algeriensis,north african shad,alosidae,pelagic-neritic,50.0 sl,3.9,native
+alosa alosa,allis shad,alosidae,pelagic-neritic,83.0 tl,3.0,native
+alosa fallax,twaite shad,alosidae,pelagic-neritic,60.0 sl,4.0,native
+aluterus monoceros,unicorn leatherjacket filefish,monacanthidae,reef-associated,76.2 tl,2.0,introduced
+ammodytes tobianus,small sandeel,ammodytidae,demersal,20.0 sl,3.1,native
+anarchias euryurus,,muraenidae,demersal,25.0 tl,3.4,native
+anarhichas lupus,atlantic wolffish,anarhichadidae,demersal,150.0 tl,3.9,questionable
+anguilla anguilla,european eel,anguillidae,demersal,133.0 tl,3.5,native
+anguilla japonica,japanese eel,anguillidae,demersal,150.0 tl,3.5,questionable
+anthias anthias,swallowtail seaperch,anthiadidae,reef-associated,27.0 sl,3.8,native
+aphaniops dispar,arabian pupfish,aphaniidae,benthopelagic,7.0 tl,2.9,introduced
+aphanius fasciatus,mediterranean banded killifish,aphaniidae,benthopelagic,6.8 tl,2.7,native
+aphia minuta,transparent goby,gobiidae,pelagic-neritic,7.9 tl,3.2,native
+apletodon dentatus,small-headed clingfish,gobiesocidae,demersal,4.0 sl,3.1,native
+apletodon incognitus,,gobiesocidae,demersal,2.7 sl,3.0,native
+apogon imberbis,cardinal fish,apogonidae,reef-associated,15.0 sl,3.3,native
+apogonichthyoides nigripinnis,bullseye,apogonidae,reef-associated,10.0 tl,3.4,misidentification
+apogonichthyoides pharaonis,pharaoh cardinalfish,apogonidae,demersal,9.5 tl,3.4,introduced
+apogonichthyoides taeniatus,twobelt cardinal,apogonidae,reef-associated,17.0 tl,3.7,misidentification
+apterichtus anguiformis,slender finless eel,ophichthidae,demersal,49.3 tl,4.0,native
+apterichtus caecus,european finless eel,ophichthidae,demersal,60.0 tl,4.1,native
+arctozenus risso,spotted barracudina,paralepididae,bathypelagic,30.0 sl,3.9,native
+argentina sphyraena,argentine,argentinidae,bathydemersal,35.0 sl,3.5,native
+argyropelecus hemigymnus,half-naked hatchetfish,sternoptychidae,bathypelagic,5.1 tl,3.1,native
+argyropelecus olfersii,,sternoptychidae,bathypelagic,9.0 tl,3.4,native
+argyrosomus regius,meagre,sciaenidae,benthopelagic,230.0 tl,4.3,native
+ariosoma balearicum,bandtooth conger,congridae,reef-associated,35.0 tl,3.9,native
+arnoglossus grohmanni,,bothidae,demersal,,3.6,native
+arnoglossus imperialis,imperial scaldfish,bothidae,demersal,25.0 tl,3.8,native
+arnoglossus kessleri,scaldback,bothidae,demersal,13.0 tl,4.1,native
+arnoglossus laterna,mediterranean scaldfish,bothidae,demersal,25.0 sl,3.6,native
+arnoglossus nigrofilamentosus,filamentous flounder,bothidae,pelagic-neritic,9.7 sl,3.4,native
+arnoglossus rueppelii,rüppell's scaldback,bothidae,demersal,15.0 sl,4.0,native
+arnoglossus thori,thor's scaldfish,bothidae,demersal,18.0 sl,3.3,native
+arothron hispidus,white-spotted puffer,tetraodontidae,reef-associated,50.0 tl,3.4,questionable
+atherina boyeri,big-scale sand smelt,atherinidae,demersal,20.0 tl,3.2,native
+atherina hepsetus,mediterranean sand smelt,atherinidae,pelagic-neritic,20.0 tl,3.2,native
+atherina presbyter,sand smelt,atherinidae,pelagic-neritic,20.0 tl,3.7,native
+atherinomorus forskalii,red sea hardyhead silverside,atherinidae,reef-associated,13.3 sl,3.3,introduced
+atherinomorus lacunosus,hardyhead silverside,atherinidae,reef-associated,25.0 tl,3.3,introduced
+aulopus filamentosus,royal flagfin,aulopidae,demersal,44.0 sl,4.2,native
+aulotrachichthys sajademalensis,saya de malha luminous roughy,trachichthyidae,bathypelagic,9.6 sl,4.2,native
+auxis rochei,bullet tuna,scombridae,pelagic-neritic,50.0 fl,4.4,native
+balistes capriscus,grey triggerfish,balistidae,reef-associated,66.0 tl,4.1,native
+bathophilus nigerrimus,scaleless dragonfish,stomiidae,bathypelagic,12.2 sl,4.2,native
+bathophilus vaillanti,,stomiidae,bathypelagic,18.0 sl,4.4,native
+bathygobius soporator,frillfin goby,gobiidae,demersal,15.0 tl,3.7,native
+bathypterois dubius,spiderfish,ipnopidae,bathydemersal,20.5 sl,3.4,native
+bathypterois grallator,tripodfish,ipnopidae,bathydemersal,43.4 tl,3.1,native
+bathypterois mediterraneus,mediterranean spiderfish,ipnopidae,bathydemersal,20.0 sl,3.4,native
+bathysaurus mollis,highfin lizardfish,bathysauridae,bathydemersal,78.0 sl,4.5,native
+bathysolea profundicola,deepwater sole,soleidae,bathypelagic,21.0 sl,3.2,native
+bathytoshia centroura,roughtail stingray,dasyatidae,demersal,300.0 tl,3.8,misidentification
+bellottia apoda,,bythitidae,bathydemersal,6.5 sl,3.4,native
+belone belone,garfish,belonidae,pelagic-oceanic,104.0 tl,4.2,native
+belone svetovidovi,,belonidae,pelagic-oceanic,41.8 tl,4.0,native
+benthocometes robustus,,ophidiidae,bathydemersal,15.0 tl,3.1,native
+benthophilus stellatus,stellate tadpole-goby,gobiidae,demersal,13.5 tl,3.7,native
+benthosema glaciale,glacier lantern fish,myctophidae,pelagic-oceanic,10.3 sl,3.1,native
+beryx decadactylus,alfonsino,berycidae,bathydemersal,100.0 tl,4.1,native
+beryx splendens,splendid alfonsino,berycidae,benthopelagic,70.0 tl,4.3,introduced
+blennius ocellaris,butterfly blenny,blenniidae,demersal,20.0 tl,3.5,native
+boops boops,bogue,sparidae,demersal,40.0 tl,2.8,native
+borostomias antarcticus,snaggletooth,stomiidae,bathydemersal,30.0 sl,3.6,native
+bothus podas,wide-eyed flounder,bothidae,demersal,45.0 tl,3.4,native
+brama brama,atlantic pomfret,bramidae,pelagic-neritic,100.0 tl,4.1,native
+bregmaceros atlanticus,antenna codlet,bregmacerotidae,pelagic-oceanic,7.8 tl,2.8,misidentification
+bregmaceros nectabanus,smallscale codlet,bregmacerotidae,pelagic-neritic,7.6 sl,3.2,introduced
+buenia affinis,de buen's goby,gobiidae,demersal,3.3 sl,3.2,endemic
+buenia jeffreysii,jeffrey's goby,gobiidae,demersal,6.0 tl,3.6,questionable
+buenia lombartei,lombarte's goby,gobiidae,demersal,2.8 sl,3.1,native
+buenia massutii,massuti's goby,gobiidae,pelagic-neritic,2.2 sl,3.1,native
+buglossidium luteum,solenette,soleidae,demersal,20.0 tl,3.3,native
+callanthias ruber,parrot seaperch,callanthiidae,demersal,60.0 tl,3.8,native
+callionymus fasciatus,banded dragonet,callionymidae,demersal,16.5 tl,3.3,native
+callionymus filamentosus,blotchfin dragonet,callionymidae,demersal,20.0 tl,3.3,introduced
+callionymus lyra,dragonet,callionymidae,demersal,30.5 tl,3.4,native
+callionymus maculatus,,callionymidae,demersal,17.0 tl,3.3,native
+callionymus pusillus,sailfin dragonet,callionymidae,demersal,14.0 tl,3.3,native
+callionymus reticulatus,reticulated dragonet,callionymidae,demersal,18.5 tl,3.3,native
+callionymus risso,risso's dragonet,callionymidae,demersal,18.2 tl,3.0,native
+campogramma glaycos,vadigo,carangidae,benthopelagic,60.0 fl,4.5,native
+capros aper,boarfish,caproidae,demersal,30.0 tl,3.1,native
+caranx crysos,blue runner,carangidae,reef-associated,70.0 tl,4.1,native
+caranx fischeri,longfin crevalle jack,carangidae,pelagic-neritic,100.0 fl,4.2,native
+caranx rhonchus,false scad,carangidae,benthopelagic,60.0 tl,3.6,native
+carapus acus,pearl fish,carapidae,demersal,20.8 tl,4.0,native
+carcharhinus altimus,bignose shark,carcharhinidae,reef-associated,300.0 tl,4.5,introduced
+carcharhinus amboinensis,pigeye shark,carcharhinidae,reef-associated,280.0 tl,4.3,native
+carcharhinus brachyurus,copper shark,carcharhinidae,reef-associated,325.0 tl,4.3,native
+carcharhinus brevipinna,spinner shark,carcharhinidae,reef-associated,309.0 tl,4.2,native
+carcharhinus falciformis,silky shark,carcharhinidae,reef-associated,350.0 tl,4.3,introduced
+carcharhinus limbatus,blacktip shark,carcharhinidae,reef-associated,286.0 tl,4.4,native
+carcharhinus longimanus,oceanic whitetip shark,carcharhinidae,pelagic-oceanic,400.0 tl,4.2,native
+carcharhinus melanopterus,blacktip reef shark,carcharhinidae,reef-associated,200.0 tl,3.9,questionable
+carcharhinus obscurus,dusky shark,carcharhinidae,reef-associated,420.0 tl,4.3,native
+carcharhinus plumbeus,sandbar shark,carcharhinidae,benthopelagic,300.0 tl,4.3,native
+carcharias taurus,sand tiger shark,carchariidae,reef-associated,330.0 tl,4.5,native
+carcharodon carcharias,great white shark,lamnidae,pelagic-oceanic,640.0 tl,4.5,native
+carlarius parkii,guinean sea catfish,ariidae,demersal,75.0 tl,4.1,introduced
+cataetyx alleni,,bythitidae,bathydemersal,12.0 tl,3.4,native
+cataetyx laticeps,,bythitidae,bathydemersal,65.0 tl,3.7,native
+centracanthus cirrus,curled picarel,sparidae,benthopelagic,34.0 tl,3.4,native
+centrolabrus exoletus,rock cook,labridae,reef-associated,18.0 tl,3.5,introduced
+centrolabrus melanocercus,,labridae,reef-associated,14.0 tl,3.2,endemic
+centrolophus niger,rudderfish,centrolophidae,bathypelagic,150.0 sl,3.9,native
+centrophorus granulosus,gulper shark,centrophoridae,bathydemersal,165.0 tl,4.1,misidentification
+centrophorus uyato,little gulper shark,centrophoridae,bathydemersal,110.0 tl,4.5,native
+centroscymnus coelolepis,portuguese dogfish,somniosidae,bathydemersal,121.0 tl,4.5,native
+cephalopholis taeniops,bluespotted seabass,epinephelidae,demersal,70.0 tl,4.5,introduced
+cepola macrophthalma,red bandfish,cepolidae,demersal,80.0 tl,3.1,native
+ceratoscopelus maderensis,madeira lantern fish,myctophidae,bathypelagic,8.9 tl,3.3,native
+cetorhinus maximus,basking shark,cetorhinidae,pelagic-oceanic,"1,520.0 tl",3.2,native
+chaetodon hoefleri,four-banded butterflyfish,chaetodontidae,reef-associated,27.0 tl,3.5,questionable
+chaetodon larvatus,hooded butterflyfish,chaetodontidae,reef-associated,12.0 tl,3.4,introduced
+champsodon nudivittis,,champsodontidae,pelagic-oceanic,12.7 tl,4.1,introduced
+champsodon vorax,,champsodontidae,demersal,8.2 sl,4.0,introduced
+chanos chanos,milkfish,chanidae,benthopelagic,180.0 sl,2.6,introduced
+chauliodus sloani,sloane's viperfish,stomiidae,bathypelagic,35.0 sl,4.2,native
+chaunax suttkusi,,chaunacidae,bathydemersal,26.7 tl,4.1,introduced
+cheilopogon exsiliens,bandwing flyingfish,exocoetidae,pelagic-oceanic,30.0 tl,3.0,native
+cheilopogon furcatus,spotfin flyingfish,exocoetidae,pelagic-oceanic,35.0 tl,4.0,introduced
+cheilopogon heterurus,mediterranean flyingfish,exocoetidae,pelagic-neritic,40.0 tl,3.4,native
+chelidonichthys cuculus,red gurnard,triglidae,demersal,70.0 tl,3.8,native
+chelidonichthys lastoviza,streaked gurnard,triglidae,demersal,40.0 tl,3.5,native
+chelidonichthys lucerna,tub gurnard,triglidae,demersal,82.8 tl,4.0,native
+chelidonichthys obscurus,longfin gurnard,triglidae,demersal,50.5 tl,3.7,native
+chelon auratus,golden grey mullet,mugilidae,pelagic-neritic,61.0 fl,2.8,native
+chelon caeruleus,,mugilidae,demersal,68.2 sl,2.6,native
+chelon labrosus,thicklip grey mullet,mugilidae,demersal,75.0 sl,2.6,native
+chelon ramada,thinlip grey mullet,mugilidae,pelagic-neritic,70.0 tl,2.3,native
+chelon saliens,leaping mullet,mugilidae,demersal,40.0 sl,2.9,native
+chimaera monstrosa,rabbit fish,chimaeridae,bathydemersal,150.0 tl,3.8,native
+chlopsis bicolor,bicolor eel,chlopsidae,demersal,42.0 tl,3.7,native
+chlorophthalmus agassizi,shortnose greeneye,chlorophthalmidae,bathydemersal,40.0 tl,3.7,native
+chloroscombrus chrysurus,atlantic bumper,carangidae,pelagic-neritic,65.0 tl,3.5,native
+chromis chromis,damselfish,pomacentridae,reef-associated,25.0 tl,3.8,native
+chromis viridis,blue green damselfish,pomacentridae,reef-associated,10.0 tl,2.9,native
+chromogobius quadrivittatus,chestnut goby,gobiidae,demersal,6.6 sl,3.4,native
+chromogobius zebratus,kolombatovic's goby,gobiidae,demersal,5.3 sl,3.2,native
+citharus linguatula,spotted flounder,citharidae,demersal,39.7 tl,4.0,native
+clinitrachus argentatus,cline,clinidae,demersal,10.0 tl,3.5,native
+coelorinchus caelorhincus,hollowsnout grenadier,macrouridae,benthopelagic,48.0 tl,3.5,native
+coelorinchus mediterraneus,,macrouridae,bathydemersal,24.5 tl,3.5,native
+coelorinchus occa,swordsnout grenadier,macrouridae,bathydemersal,50.0 tl,3.6,native
+conger conger,european conger,congridae,demersal,300.0 tl,4.3,native
+corcyrogobius liechtensteini,liechtenstein's goby,gobiidae,demersal,2.5 tl,3.0,endemic
+coregonus lavaretus,european whitefish,salmonidae,demersal,73.0 tl,3.1,introduced
+coris julis,mediterranean rainbow wrasse,labridae,reef-associated,30.0 sl,3.4,native
+coryogalops ocheticus,suez goby,gobiidae,demersal,6.2 tl,3.2,introduced
+coryphaena equiselis,pompano dolphinfish,coryphaenidae,pelagic-oceanic,145.7 tl,4.5,native
+coryphaena hippurus,common dolphinfish,coryphaenidae,pelagic-neritic,210.0 tl,4.2,native
+coryphaenoides guentheri,günther's grenadier,macrouridae,bathydemersal,50.0 tl,3.3,native
+coryphaenoides mediterraneus,mediterranean grenadier,macrouridae,bathypelagic,73.0 tl,3.6,native
+coryphoblennius galerita,montagu's blenny,blenniidae,demersal,7.6 sl,2.0,native
+crenidens crenidens,karanteen seabream,sparidae,demersal,30.0 tl,2.8,introduced
+cryptocentrus caeruleomaculatus,blue-speckled prawn-goby,gobiidae,reef-associated,10.0 sl,3.0,introduced
+cryptocentrus steinhardti,steinhardt's shrimp-goby,gobiidae,demersal,8.2 tl,3.3,native
+crystallogobius linearis,crystal goby,gobiidae,demersal,4.7 sl,3.4,native
+ctenolabrus rupestris,goldsinny-wrasse,labridae,reef-associated,18.0 tl,3.6,native
+cubiceps capensis,cape fathead,nomeidae,pelagic-oceanic,101.0 tl,3.4,native
+cubiceps gracilis,driftfish,nomeidae,pelagic-oceanic,107.0 tl,3.4,native
+cyclichthys spilostylus,spotbase burrfish,diodontidae,reef-associated,34.0 tl,3.5,introduced
+cyclothone braueri,garrick,gonostomatidae,bathypelagic,4.6 sl,3.1,native
+cyclothone microdon,veiled anglemouth,gonostomatidae,bathypelagic,7.6 tl,3.0,native
+cyclothone pygmaea,,gonostomatidae,bathypelagic,2.9 sl,3.4,endemic
+cynoglossus sinusarabici,red sea tonguesole,cynoglossidae,demersal,17.1 tl,3.4,introduced
+cynoponticus ferox,guinean pike conger,muraenesocidae,demersal,200.0 tl,3.6,native
+dactylopterus volitans,flying gurnard,dactylopteridae,reef-associated,50.0 sl,3.7,native
+dagetichthys lusitanicus,portuguese sole,soleidae,demersal,40.0 tl,3.1,native
+dalatias licha,kitefin shark,dalatiidae,bathydemersal,182.0 tl,4.2,native
+dalophis imberbis,armless snake eel,ophichthidae,demersal,150.0 tl,4.0,native
+dasyatis chrysonota,blue stingray,dasyatidae,demersal,75.0 wd,3.8,introduced
+dasyatis marmorata,marbled stingray,dasyatidae,demersal,74.5 tl,3.6,native
+dasyatis pastinaca,common stingray,dasyatidae,demersal,69.5 wd,3.6,native
+dasyatis tortonesei,tortonese's stingray,dasyatidae,demersal,80.0 wd,4.0,endemic
+decapterus macarellus,mackerel scad,carangidae,pelagic-oceanic,46.0 tl,4.0,native
+decapterus punctatus,round scad,carangidae,reef-associated,30.0 sl,3.4,native
+decapterus russelli,indian scad,carangidae,benthopelagic,45.0 tl,3.7,introduced
+deltentosteus collonianus,toothed goby,gobiidae,demersal,7.0 tl,3.5,native
+deltentosteus quadrimaculatus,four-spotted goby,gobiidae,demersal,10.3 tl,3.1,native
+dentex dentex,common dentex,sparidae,benthopelagic,100.0 tl,4.5,native
+dentex gibbosus,pink dentex,sparidae,benthopelagic,106.0 fl,4.1,native
+dentex macrophthalmus,large-eye dentex,sparidae,benthopelagic,65.0 tl,3.5,native
+dentex maroccanus,morocco dentex,sparidae,demersal,45.0 tl,3.8,native
+diaphus holti,small lantern fish,myctophidae,bathypelagic,7.0 sl,3.1,native
+diaphus metopoclampus,spothead lantern fish,myctophidae,bathypelagic,9.6 tl,3.3,native
+diaphus rafinesquii,white-spotted lantern fish,myctophidae,bathypelagic,9.4 tl,3.4,native
+dicentrarchus labrax,european seabass,moronidae,demersal,103.0 tl,3.5,native
+dicentrarchus punctatus,spotted seabass,moronidae,pelagic-neritic,70.0 tl,3.9,native
+dicologlossa cuneata,wedge sole,soleidae,demersal,30.0 sl,3.3,native
+dicologlossa hexophthalma,ocellated wedge sole,soleidae,demersal,20.0 tl,3.5,introduced
+didogobius bentuvii,ben-tuvia's goby,gobiidae,demersal,3.7 sl,3.2,endemic
+didogobius schlieweni,andromeda goby,gobiidae,demersal,3.9 sl,3.2,endemic
+diodon hystrix,spot-fin porcupinefish,diodontidae,reef-associated,91.0 tl,4.0,questionable
+diogenichthys atlanticus,longfin lanternfish,myctophidae,bathypelagic,2.9 sl,3.1,native
+diplecogaster bimaculata,two-spotted clingfish,gobiesocidae,benthopelagic,6.0 sl,3.4,native
+diplecogaster umutturali,,gobiesocidae,benthopelagic,2.7 sl,3.0,native
+diplodus annularis,annular seabream,sparidae,benthopelagic,28.0 tl,3.1,native
+diplodus bellottii,senegal seabream,sparidae,benthopelagic,30.0 sl,3.5,native
+diplodus cervinus,zebra seabream,sparidae,reef-associated,55.0 tl,3.0,native
+diplodus puntazzo,sharpsnout seabream,sparidae,benthopelagic,60.0 tl,3.1,native
+diplodus sargus,white seabream,sparidae,demersal,45.0 tl,3.4,native
+diplodus vulgaris,common two-banded seabream,sparidae,benthopelagic,45.0 tl,3.5,native
+dipturus batis,blue skate,rajidae,demersal,285.0 tl,3.5,native
+dipturus nidarosiensis,norwegian skate,rajidae,bathydemersal,200.0 tl,3.5,native
+dipturus oxyrinchus,longnosed skate,rajidae,bathydemersal,150.0 tl,3.5,native
+dussumieria acuta,rainbow sardine,dussumieriidae,pelagic-neritic,20.0 sl,3.4,misidentification
+dussumieria elopsoides,slender rainbow sardine,dussumieriidae,pelagic-neritic,20.0 sl,3.5,introduced
+dussumieria productissima,javelin rainbow sardine,dussumieriidae,pelagic-neritic,,3.4,introduced
+dysomma brevirostre,pignosed arrowtooth eel,synaphobranchidae,benthopelagic,30.0 tl,3.8,native
+echelus myrus,painted eel,ophichthidae,demersal,100.0 tl,4.3,native
+echeneis naucrates,live sharksucker,echeneidae,reef-associated,110.0 tl,3.7,native
+echiichthys vipera,lesser weever,trachinidae,demersal,27.7 tl,4.4,native
+echinorhinus brucus,bramble shark,echinorhinidae,bathydemersal,310.0 tl,4.4,native
+echiodon dentatus,,carapidae,demersal,17.0 tl,3.5,native
+echiodon drummondii,,carapidae,bathydemersal,30.0 tl,4.0,native
+elagatis bipinnulata,rainbow runner,carangidae,reef-associated,180.0 tl,4.3,native
+electrona risso,electric lantern fish,myctophidae,bathypelagic,8.4 sl,3.4,native
+enchelycore anatina,fangtooth moray,muraenidae,reef-associated,120.0 tl,4.0,introduced
+encrasicholina gloria,red sea anchovy,engraulidae,pelagic-neritic,7.2 sl,3.2,native
+engraulis encrasicolus,european anchovy,engraulidae,pelagic-neritic,20.0 sl,3.1,native
+engraulis maeoticus,,engraulidae,pelagic-neritic,9.5 sl,3.0,endemic
+entelurus aequoreus,snake pipefish,syngnathidae,demersal,60.0 tl,3.5,native
+ephippion guttifer,prickly puffer,tetraodontidae,demersal,80.0 tl,3.5,native
+epigonus constanciae,,epigonidae,bathydemersal,19.7 sl,3.5,native
+epigonus denticulatus,pencil cardinal,epigonidae,bathydemersal,20.0 tl,3.4,native
+epigonus telescopus,black cardinal fish,epigonidae,bathydemersal,75.0 tl,3.6,native
+epinephelus aeneus,white grouper,epinephelidae,demersal,120.0 tl,4.0,native
+epinephelus caninus,dogtooth grouper,epinephelidae,demersal,164.0 tl,3.8,native
+epinephelus coioides,orange-spotted grouper,epinephelidae,reef-associated,120.0 tl,4.0,introduced
+epinephelus costae,goldblotch grouper,epinephelidae,demersal,140.0 sl,3.9,native
+epinephelus malabaricus,malabar grouper,epinephelidae,reef-associated,234.0 tl,4.2,introduced
+epinephelus marginatus,dusky grouper,epinephelidae,reef-associated,150.0 tl,4.1,native
+epinephelus tauvina,greasy grouper,epinephelidae,reef-associated,100.0 tl,4.1,misidentification
+equulites klunzingeri,klunzinger's ponyfish,leiognathidae,demersal,13.4 sl,3.5,introduced
+equulites popei,pope's ponyfish,leiognathidae,demersal,12.0 tl,3.0,introduced
+eretmophorus kleinenbergi,,moridae,benthopelagic,8.9 sl,3.4,native
+etmopterus spinax,velvet belly,etmopteridae,bathydemersal,60.0 tl,4.1,native
+etrumeus golanii,,dussumieriidae,pelagic-neritic,22.0 tl,3.4,introduced
+etrumeus sadina,red-eye round herring,dussumieriidae,pelagic-neritic,33.0 tl,3.6,misidentification
+eutelichthys leptochirus,,liparidae,bathydemersal,5.1 sl,3.3,endemic
+euthynnus alletteratus,little tunny,scombridae,pelagic-oceanic,122.0 tl,4.3,native
+eutrigla gurnardus,grey gurnard,triglidae,demersal,60.0 tl,3.9,native
+evermannella balbo,balbo sabretooth,evermannellidae,bathypelagic,16.9 sl,4.2,native
+evynnis ehrenbergii,,sparidae,benthopelagic,43.0 tl,3.4,native
+exocoetus obtusirostris,oceanic two-wing flyingfish,exocoetidae,pelagic-neritic,24.0 tl,3.0,native
+exocoetus volitans,tropical two-wing flyingfish,exocoetidae,pelagic-neritic,30.0 tl,3.0,native
+facciolella oxyrhynchus,facciola's sorcerer,nettastomatidae,demersal,64.9 sl,3.5,native
+favonigobius melanobranchus,blackthroat goby,gobiidae,demersal,8.3 tl,3.5,native
+fistularia commersonii,bluespotted cornetfish,fistulariidae,reef-associated,160.0 tl,4.3,introduced
+fistularia petimba,red cornetfish,fistulariidae,reef-associated,200.0 tl,4.4,introduced
+gadella maraldi,gadella,moridae,benthopelagic,30.0 tl,3.5,native
+gadiculus argenteus,silvery pout,gadidae,pelagic-oceanic,16.1 tl,3.6,native
+gadus morhua,atlantic cod,gadidae,benthopelagic,200.0 tl,4.1,introduced
+gaidropsarus biscayensis,mediterranean bigeye rockling,gaidropsaridae,benthopelagic,40.0 tl,3.6,native
+gaidropsarus granti,azores rockling,gaidropsaridae,demersal,36.0 sl,3.6,native
+gaidropsarus mediterraneus,shore rockling,gaidropsaridae,demersal,50.0 tl,3.5,native
+gaidropsarus vulgaris,three-bearded rockling,gaidropsaridae,demersal,60.0 tl,3.5,native
+galeocerdo cuvier,tiger shark,galeocerdonidae,benthopelagic,750.0 tl,4.6,introduced
+galeoides decadactylus,lesser african threadfin,polynemidae,demersal,50.0 tl,3.6,native
+galeorhinus galeus,tope shark,triakidae,benthopelagic,195.0 tl,4.3,native
+galeus atlanticus,atlantic sawtail cat shark,pentanchidae,bathydemersal,41.7 tl,3.9,native
+galeus melastomus,blackmouth catshark,pentanchidae,demersal,90.0 tl,4.2,native
+gammogobius steinitzi,steinitz's goby,gobiidae,demersal,3.8 sl,3.2,endemic
+gasterosteus aculeatus,three-spined stickleback,gasterosteidae,benthopelagic,11.0 tl,3.3,native
+gephyroberyx darwinii,darwin's slimehead,trachichthyidae,benthopelagic,60.0 tl,3.9,introduced
+glaucostegus cemiculus,blackchin guitarfish,glaucostegidae,demersal,242.0 tl,4.0,native
+glaucostegus halavi,halavi ray,glaucostegidae,benthopelagic,120.0 wd,4.1,native
+glossanodon leioglossus,smalltoothed argentine,argentinidae,bathydemersal,20.0 tl,3.5,native
+gnathophis mystax,thinlip conger,congridae,demersal,60.0 tl,4.0,native
+gobius ater,bellotti's goby,gobiidae,demersal,7.1 sl,3.1,native
+gobius auratus,golden goby,gobiidae,demersal,10.0 tl,3.0,native
+gobius bucchichi,bucchich's goby,gobiidae,demersal,10.0 tl,3.2,native
+gobius cobitis,giant goby,gobiidae,demersal,15.7 tl,3.0,native
+gobius couchi,couch's goby,gobiidae,demersal,17.0 tl,2.9,native
+gobius cruentatus,red-mouthed goby,gobiidae,demersal,18.0 tl,3.4,native
+gobius fallax,sarato's goby,gobiidae,demersal,9.0 tl,3.3,native
+gobius gasteveni,steven's goby,gobiidae,demersal,12.0 tl,3.2,native
+gobius geniporus,slender goby,gobiidae,demersal,16.5 tl,3.3,endemic
+gobius incognitus,incognito goby,gobiidae,benthopelagic,9.5 sl,3.2,native
+gobius kolombatovici,kolombatovic's goby,gobiidae,demersal,9.2 sl,3.2,native
+gobius niger,black goby,gobiidae,demersal,25.3 tl,3.3,native
+gobius ophiocephalus,grass goby,gobiidae,demersal,29.9 tl,3.2,native
+gobius paganellus,rock goby,gobiidae,demersal,13.0 tl,3.3,native
+gobius roulei,roule's goby,gobiidae,bathydemersal,8.0 tl,3.1,native
+gobius strictus,schmidt's goby,gobiidae,demersal,6.5 sl,3.1,endemic
+gobius vittatus,striped goby,gobiidae,demersal,5.8 sl,2.9,endemic
+gobius xanthocephalus,yellow-headed goby,gobiidae,demersal,10.0 tl,3.2,native
+gobius xoriguer,kestrel goby,gobiidae,demersal,6.4 tl,3.1,native
+gonichthys cocco,cocco's lanternfish,myctophidae,bathypelagic,6.0 sl,3.2,native
+gonostoma denudatum,,gonostomatidae,bathypelagic,14.4 sl,3.3,native
+gouania orientalis,oriental blunt-snouted clingfish,gobiesocidae,demersal,3.8 sl,3.1,native
+gouania willdenowi,blunt-snouted clingfish,gobiesocidae,demersal,4.6 sl,3.1,native
+grammonus ater,,bythitidae,reef-associated,12.0 sl,3.5,endemic
+guttigadus latifrons,,moridae,bathydemersal,18.2 sl,3.4,native
+gymnammodytes cicerelus,mediterranean sand eel,ammodytidae,demersal,17.0 tl,3.4,native
+gymnammodytes semisquamatus,smooth sandeel,ammodytidae,demersal,30.0 sl,2.7,introduced
+gymnesigobius medits,balearic goby,gobiidae,demersal,4.3 sl,3.2,native
+gymnothorax reticularis,,muraenidae,demersal,60.0 tl,4.0,introduced
+gymnothorax unicolor,brown moray,muraenidae,demersal,100.0 tl,3.4,native
+gymnura altavela,spiny butterfly ray,gymnuridae,demersal,400.0 wd,4.5,native
+halobatrachus didactylus,lusitanian toadfish,batrachoididae,demersal,50.0 tl,4.0,native
+halosaurus ovenii,,halosauridae,bathydemersal,60.0 tl,3.5,introduced
+hazeus ingressus,immigrant goby,gobiidae,benthopelagic,3.2 sl,3.1,native
+helicolenus dactylopterus,blackbelly rosefish,sebastidae,bathydemersal,50.0 tl,3.9,native
+hemiramphus far,black-barred halfbeak,hemiramphidae,reef-associated,45.0 tl,2.7,introduced
+heptranchias perlo,sharpnose sevengill shark,hexanchidae,bathydemersal,140.0 tl,4.2,native
+herklotsichthys punctatus,spotback herring,dorosomatidae,pelagic-neritic,11.7 tl,3.1,introduced
+hexanchus griseus,bluntnose sixgill shark,hexanchidae,bathydemersal,600.0 tl,4.5,native
+hexanchus vitulus,atlantic bigeye sixgill shark,hexanchidae,bathydemersal,230.0 tl,4.3,native
+himantura uarnak,honeycomb stingray,dasyatidae,demersal,200.0 wd,3.6,introduced
+hippocampus fuscus,sea pony,syngnathidae,demersal,14.4 ot,3.4,introduced
+hippocampus guttulatus,long-snouted seahorse,syngnathidae,demersal,21.5 sl,3.5,native
+hippocampus hippocampus,short snouted seahorse,syngnathidae,demersal,15.0 tl,3.2,native
+hirundichthys rondeletii,black wing flyingfish,exocoetidae,pelagic-oceanic,30.0 tl,3.0,native
+hirundichthys speculiger,mirrorwing flyingfish,exocoetidae,pelagic-oceanic,25.1 sl,3.0,native
+holacanthus ciliaris,queen angelfish,pomacanthidae,reef-associated,45.0 tl,3.0,introduced
+hoplostethus mediterraneus,mediterranean slimehead,trachichthyidae,benthopelagic,42.0 sl,3.5,native
+huso huso,beluga,acipenseridae,pelagic-neritic,800.0 tl,4.4,native
+hygophum benoiti,benoit's lanternfish,myctophidae,bathypelagic,7.8 tl,3.2,native
+hygophum hygomii,bermuda lantern fish,myctophidae,bathypelagic,8.1 tl,3.0,native
+hymenocephalus italicus,glasshead grenadier,macrouridae,benthopelagic,25.0 tl,3.4,native
+hyperoglyphe perciformis,barrelfish,centrolophidae,pelagic-oceanic,91.0 tl,3.9,native
+hypleurochilus bananensis,,blenniidae,demersal,12.0 tl,3.2,native
+hyporhamphus affinis,tropical halfbeak,hemiramphidae,reef-associated,38.0 sl,3.5,introduced
+hyporhamphus picarti,african halfbeak,hemiramphidae,benthopelagic,20.0 tl,2.0,native
+hyporthodus haifensis,haifa grouper,epinephelidae,demersal,125.0 tl,4.0,native
+ichthyococcus ovatus,lightfish,phosichthyidae,bathypelagic,8.5 sl,3.4,native
+iniistius pavo,peacock wrasse,labridae,reef-associated,42.0 tl,3.5,introduced
+istiompax indica,black marlin,istiophoridae,pelagic-oceanic,465.0 fl,4.5,questionable
+istiophorus albicans,atlantic sailfish,istiophoridae,pelagic-oceanic,315.0 tl,4.5,native
+isurus oxyrinchus,shortfin mako,lamnidae,pelagic-oceanic,445.0 tl,4.5,native
+jaydia queketti,spotfin cardinal,apogonidae,benthopelagic,12.3 tl,3.5,introduced
+jaydia smithi,smith's cardinalfish,apogonidae,demersal,14.5 tl,3.6,introduced
+kajikia albida,atlantic white marlin,istiophoridae,pelagic-oceanic,300.0 tl,4.5,native
+katsuwonus pelamis,skipjack tuna,scombridae,pelagic-oceanic,110.0 fl,4.4,native
+knipowitschia caucasica,caucasian dwarf goby,gobiidae,demersal,5.0 tl,3.3,native
+kyphosus sectatrix,bermuda sea chub,kyphosidae,reef-associated,76.0 tl,2.0,native
+labrus bergylta,ballan wrasse,labridae,reef-associated,65.9 tl,4.0,questionable
+labrus merula,brown wrasse,labridae,reef-associated,45.0 sl,3.5,native
+labrus mixtus,cuckoo wrasse,labridae,reef-associated,40.0 sl,3.9,native
+labrus viridis,,labridae,reef-associated,47.0 sl,3.9,native
+lactophrys trigonus,buffalo trunkfish,ostraciidae,reef-associated,55.0 tl,3.3,questionable
+lagocephalus lagocephalus,oceanic puffer,tetraodontidae,benthopelagic,61.0 tl,3.7,native
+lagocephalus sceleratus,silver-cheeked toadfish,tetraodontidae,reef-associated,110.0 tl,3.7,introduced
+lagocephalus spadiceus,half-smooth golden pufferfish,tetraodontidae,demersal,43.1 tl,3.7,introduced
+lagocephalus suezensis,,tetraodontidae,demersal,19.5 tl,3.5,introduced
+lamna nasus,porbeagle,lamnidae,pelagic-oceanic,350.0 tl,4.5,native
+lampanyctus crocodilus,jewel lanternfish,myctophidae,bathypelagic,30.0 sl,3.2,native
+lampanyctus pusillus,pygmy lanternfish,myctophidae,bathypelagic,4.3 sl,3.4,native
+lampetra fluviatilis,river lamprey,petromyzontidae,demersal,50.0 tl,4.5,native
+lampris guttatus,opah,lampridae,bathypelagic,100.5 sl,4.2,native
+lampris lauta,east atlantic opah,lampridae,bathypelagic,90.5 sl,4.3,native
+lappanella fasciata,,labridae,reef-associated,15.0 sl,3.3,native
+lebetus guilleti,guillet's goby,gobiidae,reef-associated,2.5 sl,3.1,native
+lebetus patzneri,patzner's goby,gobiidae,reef-associated,1.7 sl,3.0,native
+lepadogaster candolii,connemarra clingfish,gobiesocidae,demersal,7.5 sl,2.8,native
+lepadogaster lepadogaster,shore clingfish,gobiesocidae,demersal,6.5 sl,3.1,native
+lepadogaster purpurea,cornish sucker,gobiesocidae,demersal,7.5 sl,3.2,native
+lepidion guentheri,,moridae,benthopelagic,81.0 sl,3.6,native
+lepidion lepidion,mediterranean codling,moridae,bathypelagic,88.9 tl,3.6,endemic
+lepidopus caudatus,silver scabbardfish,trichiuridae,benthopelagic,210.0 tl,3.8,native
+lepidorhombus boscii,four-spot megrim,scophthalmidae,demersal,40.0 sl,3.7,native
+lepidorhombus whiffiagonis,megrim,scophthalmidae,bathydemersal,60.0 tl,4.3,native
+lepidotrigla cavillone,large-scaled gurnard,triglidae,demersal,22.5 tl,3.3,native
+lepidotrigla dieuzeidei,spiny gurnard,triglidae,demersal,20.0 tl,3.7,native
+lestidiops jayakari,pacific barracudina,paralepididae,bathypelagic,20.0 tl,4.2,native
+lestidiops pseudosphyraenoides,,paralepididae,pelagic-oceanic,9.5 sl,3.9,native
+lestidiops sphyrenoides,,paralepididae,bathypelagic,27.0 sl,4.5,native
+lestidium atlanticum,atlantic barracudina,paralepididae,bathypelagic,25.0 tl,3.8,native
+lesueurigobius friesii,fries's goby,gobiidae,demersal,13.0 tl,3.4,native
+lesueurigobius sanzi,sanzo's goby,gobiidae,demersal,12.3 tl,3.3,native
+lesueurigobius suerii,lesueur's goby,gobiidae,demersal,7.5 tl,3.5,endemic
+leucoraja circularis,sandy ray,rajidae,demersal,120.0 tl,3.5,native
+leucoraja fullonica,shagreen ray,rajidae,bathydemersal,120.0 tl,3.5,native
+leucoraja melitensis,maltese ray,rajidae,bathydemersal,52.0 tl,3.3,endemic
+leucoraja naevus,cuckoo ray,rajidae,demersal,81.0 tl,4.2,native
+lichia amia,leerfish,carangidae,pelagic-neritic,200.0 tl,4.5,native
+lipophrys pholis,shanny,blenniidae,demersal,17.0 tl,3.5,native
+lipophrys trigloides,,blenniidae,demersal,13.0 tl,2.0,native
+lithognathus mormyrus,sand steenbras,sparidae,demersal,55.0 tl,3.5,native
+lobianchia dofleini,dofleini's lantern fish,myctophidae,bathypelagic,6.0 tl,3.0,native
+lobianchia gemellarii,cocco's lantern fish,myctophidae,bathypelagic,6.0 sl,3.0,native
+lobotes surinamensis,tripletail,lobotidae,benthopelagic,110.0 tl,4.0,native
+lophius budegassa,blackbellied angler,lophiidae,bathydemersal,100.0 sl,4.4,native
+lophius piscatorius,angler,lophiidae,bathydemersal,200.0 sl,4.4,native
+lophotus lacepede,crested oarfish,lophotidae,bathypelagic,200.0 tl,4.5,native
+lutjanus argentimaculatus,mangrove red snapper,lutjanidae,reef-associated,150.0 tl,3.6,introduced
+lutjanus jocu,dog snapper,lutjanidae,reef-associated,128.0 tl,4.4,native
+luvarus imperialis,luvar,luvaridae,pelagic-oceanic,200.0 tl,3.8,native
+macroramphosus scolopax,longspine snipefish,centriscidae,demersal,20.0 tl,3.5,native
+makaira nigricans,blue marlin,istiophoridae,pelagic-oceanic,,4.5,native
+marcelogobius splechtnai,splechtna's goby,gobiidae,demersal,2.8 sl,3.1,endemic
+maurolicus muelleri,silvery lightfish,sternoptychidae,bathypelagic,8.0 tl,3.0,native
+melanostigma atlanticum,atlantic soft pout,zoarcidae,bathypelagic,15.0 tl,3.2,native
+merlangius merlangus,whiting,gadidae,benthopelagic,91.5 tl,4.4,native
+merluccius merluccius,european hake,merlucciidae,demersal,140.0 tl,4.5,native
+microchirus azevia,,soleidae,demersal,40.0 sl,3.2,native
+microchirus boscanion,lusitanian sole,soleidae,demersal,20.0 tl,3.2,native
+microchirus ocellatus,foureyed sole,soleidae,demersal,21.0 tl,3.2,native
+microchirus variegatus,thickback sole,soleidae,demersal,35.0 sl,3.3,native
+microichthys coccoi,,epigonidae,demersal,3.0 tl,3.1,endemic
+microichthys sanzoi,,epigonidae,demersal,6.0 tl,3.2,endemic
+microlipophrys adriaticus,,blenniidae,demersal,5.0 tl,3.4,native
+microlipophrys canevae,,blenniidae,demersal,7.5 tl,2.1,native
+microlipophrys dalmatinus,,blenniidae,demersal,5.8 tl,2.3,native
+microlipophrys nigriceps,black-headed blenny,blenniidae,demersal,4.3 tl,2.5,endemic
+micromesistius poutassou,blue whiting,gadidae,bathypelagic,55.5 tl,4.1,native
+microstoma microstoma,slender argentine,microstomatidae,bathypelagic,21.0 tl,3.4,native
+millerigobius macrocephalus,large-headed goby,gobiidae,demersal,4.4 sl,3.2,endemic
+minyichthys sentus,,syngnathidae,demersal,6.0 tl,3.2,native
+mobula mobular,spinetail devil ray,mobulidae,pelagic-neritic,520.0 wd,3.5,native
+mola alexandrini,bumphead sunfish,molidae,pelagic-oceanic,330.0 tl,3.8,native
+mola mola,ocean sunfish,molidae,pelagic-oceanic,333.0 tl,3.1,native
+molva dypterygia,blue ling,lotidae,demersal,155.0 tl,4.5,native
+molva macrophthalma,spanish ling,lotidae,demersal,108.0 tl,4.5,native
+molva molva,ling,lotidae,demersal,200.0 tl,4.4,native
+monochirus hispidus,whiskered sole,soleidae,demersal,22.0 tl,3.5,native
+monotaxis grandoculis,humpnose big-eye bream,lethrinidae,reef-associated,60.0 tl,3.5,questionable
+mora moro,common mora,moridae,bathypelagic,80.0 tl,3.8,native
+mugil cephalus,flathead grey mullet,mugilidae,benthopelagic,100.0 sl,2.5,native
+mullus barbatus,red mullet,mullidae,demersal,38.2 tl,3.1,native
+mullus surmuletus,surmullet,mullidae,demersal,40.0 sl,3.5,native
+muraena helena,mediterranean moray,muraenidae,reef-associated,150.0 tl,4.2,native
+muraenesox cinereus,daggertooth pike conger,muraenesocidae,demersal,220.0 tl,4.4,introduced
+mustelus asterias,starry smooth-hound,triakidae,demersal,154.0 tl,3.6,native
+mustelus mustelus,smooth-hound,triakidae,demersal,200.0 tl,4.3,native
+mustelus punctulatus,blackspotted smooth-hound,triakidae,demersal,190.0 tl,3.8,native
+mycteroperca fusca,island grouper,epinephelidae,demersal,80.0 tl,4.3,native
+mycteroperca rubra,mottled grouper,epinephelidae,demersal,144.0 tl,4.1,native
+myctophum punctatum,spotted lanternfish,myctophidae,bathypelagic,11.0 sl,3.4,native
+myliobatis aquila,common eagle ray,myliobatidae,benthopelagic,183.0 wd,3.6,native
+mystriophis crosnieri,,ophichthidae,demersal,96.5 tl,3.5,native
+myxine glutinosa,atlantic hagfish,myxinidae,bathydemersal,95.0 tl,3.4,native
+nansenia iberica,,microstomatidae,bathypelagic,25.0 sl,3.3,endemic
+nansenia oblita,,microstomatidae,pelagic-oceanic,18.0 sl,3.2,native
+naucrates ductor,pilotfish,carangidae,reef-associated,70.0 tl,3.4,native
+nemichthys scolopaceus,slender snipe eel,nemichthyidae,bathypelagic,130.0 tl,3.4,native
+nemipterus japonicus,japanese threadfin bream,nemipteridae,demersal,34.0 tl,4.2,error
+nemipterus randalli,randall's threadfin bream,nemipteridae,demersal,27.0 tl,3.8,introduced
+nerophis lumbriciformis,worm pipefish,syngnathidae,demersal,17.0 tl,4.0,native
+nerophis maculatus,,syngnathidae,demersal,30.0 tl,3.4,native
+nerophis ophidion,straightnose pipefish,syngnathidae,demersal,30.0 tl,3.5,native
+nettastoma melanura,blackfin sorcerer,nettastomatidae,bathypelagic,79.8 tl,3.5,native
+netuma thalassina,giant catfish,ariidae,demersal,185.0 tl,3.5,introduced
+nezumia aequalis,common atlantic grenadier,macrouridae,benthopelagic,36.0 tl,3.3,native
+nezumia sclerorhynchus,roughtip grenadier,macrouridae,bathypelagic,36.0 tl,3.2,native
+notacanthus bonaparte,shortfin spiny eel,notacanthidae,benthopelagic,26.0 tl,3.9,native
+notoscopelus bolini,,myctophidae,pelagic-oceanic,10.2 sl,3.1,native
+notoscopelus elongatus,,myctophidae,pelagic-oceanic,14.2 sl,3.4,endemic
+notoscopelus kroyeri,lancet fish,myctophidae,pelagic-oceanic,14.3 sl,3.2,native
+oblada melanurus,saddled seabream,sparidae,benthopelagic,36.6 tl,3.4,native
+odondebuenia balearica,coralline goby,gobiidae,demersal,3.2 tl,3.1,endemic
+odontaspis ferox,smalltooth sand tiger,odontaspididae,benthopelagic,450.0 tl,4.2,native
+oedalechilus labeo,boxlip mullet,mugilidae,demersal,25.0 tl,2.3,native
+omobranchus punctatus,muzzled blenny,blenniidae,benthopelagic,9.5 sl,2.5,introduced
+opeatogenys gracilis,,gobiesocidae,demersal,3.0 tl,3.0,endemic
+ophichthus ophis,spotted snake eel,ophichthidae,demersal,210.0 tl,4.5,native
+ophichthus rufus,rufus snake-eel,ophichthidae,demersal,60.0 tl,4.3,endemic
+ophidion barbatum,snake blenny,ophidiidae,demersal,25.4 tl,3.6,native
+ophidion rochei,,ophidiidae,demersal,,3.6,native
+ophisurus serpens,serpent eel,ophichthidae,demersal,250.0 tl,4.1,native
+oplegnathus fasciatus,barred knifejaw,oplegnathidae,reef-associated,80.0 tl,3.5,introduced
+orcynopsis unicolor,plain bonito,scombridae,pelagic-neritic,130.0 fl,4.5,native
+ostorhinchus fasciatus,broadbanded cardinalfish,apogonidae,reef-associated,12.6 tl,3.6,introduced
+ostracion cubicum,yellow boxfish,ostraciidae,reef-associated,45.0 tl,3.3,introduced
+oxynotus centrina,angular roughshark,oxynotidae,bathydemersal,150.0 tl,3.1,native
+oxyurichthys papuensis,frogface goby,gobiidae,reef-associated,22.0 tl,3.5,introduced
+oxyurichthys petersii,peter's goby,gobiidae,reef-associated,,3.7,introduced
+pagellus acarne,axillary seabream,sparidae,benthopelagic,36.0 sl,3.4,native
+pagellus bellottii,red pandora,sparidae,demersal,42.0 sl,4.0,native
+pagellus bogaraveo,blackspot seabream,sparidae,benthopelagic,70.0 sl,4.2,native
+pagellus erythrinus,common pandora,sparidae,benthopelagic,60.0 sl,3.5,native
+pagrus auriga,redbanded seabream,sparidae,benthopelagic,80.0 sl,3.8,native
+pagrus caeruleostictus,bluespotted seabream,sparidae,benthopelagic,90.0 sl,3.7,native
+pagrus major,red seabream,sparidae,demersal,100.0 sl,4.5,introduced
+pagrus pagrus,red porgy,sparidae,benthopelagic,91.0 tl,3.9,native
+pampus argenteus,silver pomfret,stromateidae,benthopelagic,60.0 sl,3.3,native
+panturichthys fowleri,,heterenchelyidae,demersal,,3.9,endemic
+papilloculiceps longiceps,tentacled flathead,platycephalidae,reef-associated,70.0 tl,4.0,introduced
+parablennius gattorugine,tompot blenny,blenniidae,demersal,30.0 tl,2.7,native
+parablennius incognitus,,blenniidae,demersal,8.0 tl,2.7,native
+parablennius pilicornis,ringneck blenny,blenniidae,demersal,12.7 sl,3.2,native
+parablennius rouxi,,blenniidae,demersal,8.0 tl,2.9,native
+parablennius sanguinolentus,rusty blenny,blenniidae,demersal,20.0 tl,2.8,native
+parablennius tentacularis,tentacled blenny,blenniidae,demersal,15.0 tl,3.3,native
+parablennius thysanius,tasseled blenny,blenniidae,demersal,6.2 tl,2.9,introduced
+parablennius zvonimiri,,blenniidae,demersal,7.0 tl,2.9,native
+paralepis coregonoides,sharpchin barracudina,paralepididae,bathypelagic,50.0 sl,4.1,native
+paralepis speciosa,,paralepididae,bathypelagic,20.0 ng,3.2,endemic
+paraliparis murieli,,liparidae,bathydemersal,,3.5,endemic
+parapristipoma humile,guinean grunt,haemulidae,demersal,37.5 tl,3.5,misidentification
+parapristipoma octolineatum,african striped grunt,haemulidae,demersal,50.0 sl,3.5,native
+parexocoetus mento,african sailfin flyingfish,exocoetidae,pelagic-neritic,11.0 sl,3.3,introduced
+parophidion vassali,,ophidiidae,demersal,25.0 sl,3.5,endemic
+parupeneus forsskali,red sea goatfish,mullidae,reef-associated,28.0 tl,3.5,questionable
+pegusa impar,adriatic sole,soleidae,demersal,35.0 tl,3.3,native
+pegusa lascaris,sand sole,soleidae,demersal,40.0 sl,3.3,native
+pegusa nasuta,blackhand sole,soleidae,demersal,21.7 tl,3.3,native
+pelates quadrilineatus,fourlined terapon,terapontidae,reef-associated,30.0 tl,3.6,introduced
+pempheris mangula,indian sweeper,pempheridae,demersal,16.0 tl,3.4,introduced
+pempheris rhomboidea,,pempheridae,pelagic-neritic,17.6 tl,3.5,native
+peristedion cataphractum,african armoured searobin,peristediidae,demersal,40.0 tl,3.5,native
+petromyzon marinus,sea lamprey,petromyzontidae,demersal,120.0 tl,4.4,native
+petroscirtes ancylodon,arabian fangblenny,blenniidae,demersal,11.5 tl,2.1,introduced
+phycis blennoides,greater forkbeard,phycidae,benthopelagic,110.0 tl,3.7,native
+phycis phycis,forkbeard,phycidae,benthopelagic,65.0 tl,4.3,native
+physiculus dalwigki,black codling,moridae,benthopelagic,30.0 tl,3.4,native
+planiliza carinata,keeled mullet,mugilidae,pelagic-neritic,24.4 tl,2.5,introduced
+planiliza haematocheilus,so-iuy mullet,mugilidae,pelagic-neritic,80.0 tl,2.5,introduced
+platax teira,longfin batfish,ephippidae,reef-associated,70.0 tl,4.0,introduced
+platichthys flesus,european flounder,pleuronectidae,demersal,60.0 tl,3.3,native
+platycephalus indicus,bartail flathead,platycephalidae,reef-associated,100.0 tl,3.6,introduced
+plectorhinchus mediterraneus,rubberlip grunt,haemulidae,demersal,80.0 sl,3.5,native
+pleuronectes platessa,european plaice,pleuronectidae,demersal,100.0 sl,3.2,misidentification
+plotosus lineatus,striped eel catfish,plotosidae,reef-associated,35.2 tl,3.6,introduced
+polyacanthonotus rissoanus,smallmouth spiny eel,notacanthidae,bathydemersal,9.5 ot,3.5,native
+polyprion americanus,wreckfish,polyprionidae,demersal,210.0 tl,4.1,native
+pomacanthus imperator,emperor angelfish,pomacanthidae,reef-associated,40.0 sl,2.9,introduced
+pomacanthus maculosus,yellowbar angelfish,pomacanthidae,reef-associated,50.0 sl,2.8,introduced
+pomadasys incisus,bastard grunt,haemulidae,demersal,53.5 tl,3.8,native
+pomadasys stridens,striped piggy,haemulidae,reef-associated,20.0 tl,4.0,introduced
+pomatomus saltatrix,bluefish,pomatomidae,pelagic-oceanic,130.0 tl,4.5,native
+pomatoschistus bathi,bath's goby,gobiidae,demersal,8.9 tl,3.3,endemic
+pomatoschistus flavescens,two-spotted goby,gobiidae,reef-associated,6.0 tl,3.2,questionable
+pomatoschistus knerii,kner's goby,gobiidae,demersal,,3.2,endemic
+pomatoschistus marmoratus,marbled goby,gobiidae,demersal,8.0 tl,3.3,native
+pomatoschistus microps,common goby,gobiidae,demersal,9.0 tl,3.3,native
+pomatoschistus minutus,sand goby,gobiidae,demersal,11.0 tl,3.3,native
+pomatoschistus norvegicus,norway goby,gobiidae,demersal,8.0 tl,3.3,native
+pomatoschistus pictus,painted goby,gobiidae,demersal,6.0 tl,3.1,native
+pomatoschistus quagga,quagga goby,gobiidae,demersal,6.0 tl,3.3,endemic
+pomatoschistus tortonesei,tortonese's goby,gobiidae,demersal,,3.4,endemic
+pontinus kuhlii,offshore rockfish,scorpaenidae,bathydemersal,52.0 tl,4.1,native
+priacanthus hamrur,moontail bullseye,priacanthidae,reef-associated,45.0 tl,3.6,questionable
+priacanthus sagittarius,arrowfin bigeye,priacanthidae,demersal,35.0 sl,4.5,introduced
+prionace glauca,blue shark,carcharhinidae,pelagic-oceanic,400.0 tl,4.3,native
+pristis pectinata,smalltooth sawfish,pristidae,demersal,760.0 tl,4.5,native
+pristis pristis,common sawfish,pristidae,demersal,750.0 tl,4.0,native
+psenes pellucidus,bluefin driftfish,nomeidae,bathypelagic,80.0 tl,3.8,introduced
+pseudaphya ferreri,ferrer's goby,gobiidae,benthopelagic,3.5 tl,3.1,endemic
+pseudocaranx dentex,white trevally,carangidae,reef-associated,122.0 tl,3.9,native
+pseudotolithus senegallus,law croaker,sciaenidae,demersal,230.0 tl,3.9,introduced
+pseudupeneus prayensis,west african goatfish,mullidae,demersal,55.0 sl,3.2,native
+pteragogus pelycus,sideburn wrasse,labridae,demersal,15.0 tl,3.5,misidentification
+pteragogus trispilus,,labridae,reef-associated,7.9 sl,3.4,introduced
+pterois miles,devil firefish,scorpaenidae,reef-associated,43.0 tl,4.5,introduced
+pteroplatytrygon violacea,pelagic stingray,dasyatidae,pelagic-oceanic,96.0 wd,4.4,native
+rachycentron canadum,cobia,rachycentridae,reef-associated,200.0 tl,4.2,introduced
+raja asterias,mediterranean starry ray,rajidae,demersal,75.0 tl,3.8,native
+raja brachyura,blonde ray,rajidae,demersal,125.0 tl,3.8,native
+raja clavata,thornback ray,rajidae,demersal,139.0 tl,3.8,native
+raja mauritaniensis,african ray,rajidae,demersal,80.0 tl,4.0,native
+raja miraletus,brown ray,rajidae,demersal,63.0 tl,3.7,native
+raja montagui,spotted ray,rajidae,demersal,102.0 tl,3.9,native
+raja polystigma,speckled ray,rajidae,demersal,60.0 tl,3.3,endemic
+raja radula,rough ray,rajidae,demersal,70.0 tl,3.7,native
+raja rondeleti,rondelet's ray,rajidae,demersal,50.0 tl,3.5,endemic
+raja undulata,undulate ray,rajidae,demersal,100.0 tl,3.5,native
+ranzania laevis,slender sunfish,molidae,pelagic-oceanic,100.0 tl,3.7,native
+rastrelliger kanagurta,indian mackerel,scombridae,pelagic-neritic,42.1 tl,3.3,introduced
+ratabulus prionotus,halfspined flathead,platycephalidae,demersal,22.0 tl,3.7,introduced
+regalecus glesne,king of herrings,regalecidae,pelagic-oceanic,800.0 tl,3.2,native
+remora australis,whalesucker,echeneidae,pelagic-oceanic,76.0 tl,3.5,misidentification
+remora brachyptera,spearfish remora,echeneidae,pelagic-oceanic,50.0 tl,3.5,native
+remora osteochir,marlin sucker,echeneidae,pelagic-oceanic,40.0 sl,3.5,native
+remora remora,shark sucker,echeneidae,reef-associated,86.4 tl,3.5,native
+rhabdosargus haffara,haffara seabream,sparidae,reef-associated,35.0 tl,3.5,introduced
+rhinobatos rhinobatos,common guitarfish,rhinobatidae,demersal,185.0 tl,4.1,native
+rhinoptera marginata,lusitanian cownose ray,rhinopteridae,benthopelagic,200.0 wd,3.8,native
+rhynchoconger trewavasae,,congridae,bathydemersal,57.0 tl,3.9,introduced
+rhynchogadus hepaticus,,moridae,bathypelagic,10.0 sl,3.3,native
+rostroraja alba,white skate,rajidae,demersal,230.0 tl,4.4,native
+ruvettus pretiosus,oilfish,gempylidae,benthopelagic,300.0 tl,4.2,native
+salaria basilisca,,blenniidae,demersal,18.0 tl,2.0,endemic
+salaria pavo,peacock blenny,blenniidae,demersal,13.8 tl,2.0,native
+salmo salar,atlantic salmon,salmonidae,benthopelagic,150.0 tl,4.5,native
+salmo trutta,sea trout,salmonidae,pelagic-neritic,140.0 sl,3.4,native
+sarda sarda,atlantic bonito,scombridae,pelagic-neritic,91.4 fl,4.2,native
+sardina pilchardus,european pilchard,alosidae,pelagic-neritic,27.5 sl,3.1,native
+sardinella aurita,round sardinella,dorosomatidae,pelagic-neritic,41.0 tl,3.4,native
+sardinella gibbosa,goldstripe sardinella,dorosomatidae,pelagic-neritic,29.6 tl,2.8,introduced
+sardinella maderensis,madeiran sardinella,dorosomatidae,pelagic-neritic,30.0 sl,3.2,native
+sargocentron praslin,dark-striped squirrelfish,holocentridae,reef-associated,32.0 tl,3.5,introduced
+sargocentron rubrum,redcoat,holocentridae,reef-associated,32.0 tl,3.6,introduced
+sargocentron spinosissimum,north pacific squirrelfish,holocentridae,reef-associated,17.7 sl,4.0,introduced
+sargocentron tiereoides,pink squirrelfish,holocentridae,reef-associated,19.5 tl,3.5,introduced
+sarpa salpa,salema,sparidae,benthopelagic,51.0 sl,2.0,native
+saurenchelys cancrivora,slender sorcerer,nettastomatidae,demersal,65.0 tl,3.4,native
+saurida lessepsianus,,synodontidae,benthopelagic,28.2 sl,4.0,introduced
+saurida undosquamis,brushtooth lizardfish,synodontidae,reef-associated,50.0 sl,4.5,questionable
+scartella cristata,molly miller,blenniidae,reef-associated,12.0 tl,2.5,native
+scarus ghobban,blue-barred parrotfish,scaridae,reef-associated,75.0 tl,2.0,introduced
+scatophagus argus,spotted scat,scatophagidae,demersal,45.0 tl,3.0,introduced
+schedophilus medusophagus,cornish blackfish,centrolophidae,pelagic-oceanic,55.0 tl,4.0,native
+schedophilus ovalis,imperial blackfish,centrolophidae,benthopelagic,100.0 tl,3.5,native
+sciaena umbra,brown meagre,sciaenidae,demersal,70.0 tl,3.8,native
+sciaenops ocellatus,red drum,sciaenidae,demersal,155.0 tl,3.7,introduced
+scomber colias,atlantic chub mackerel,scombridae,pelagic-neritic,55.0 tl,3.9,native
+scomber japonicus,chub mackerel,scombridae,pelagic-neritic,64.0 tl,3.4,misidentification
+scomber scombrus,atlantic mackerel,scombridae,pelagic-neritic,60.0 fl,3.6,native
+scomberesox saurus,atlantic saury,scomberesocidae,pelagic-oceanic,50.0 tl,3.8,native
+scomberomorus commerson,narrow-barred spanish mackerel,scombridae,pelagic-neritic,240.0 fl,4.5,introduced
+scomberomorus tritor,west african spanish mackerel,scombridae,pelagic-neritic,100.0 tl,4.4,native
+scophthalmus maeoticus,black sea turbot,scophthalmidae,demersal,45.0 tl,4.0,native
+scophthalmus maximus,turbot,scophthalmidae,demersal,100.0 sl,4.4,native
+scophthalmus rhombus,brill,scophthalmidae,demersal,75.0 tl,4.4,native
+scorpaena azorica,,scorpaenidae,demersal,9.8 sl,3.5,questionable
+scorpaena elongata,slender rockfish,scorpaenidae,demersal,50.0 tl,3.9,native
+scorpaena loppei,cadenat's rockfish,scorpaenidae,demersal,15.0 tl,3.5,native
+scorpaena maderensis,madeira rockfish,scorpaenidae,demersal,17.8 tl,4.1,native
+scorpaena notata,small red scorpionfish,scorpaenidae,demersal,26.0 tl,3.7,native
+scorpaena porcus,black scorpionfish,scorpaenidae,demersal,40.5 tl,3.9,native
+scorpaena scrofa,red scorpionfish,scorpaenidae,demersal,50.0 tl,4.3,native
+scorpaena stephanica,spotted-fin rockfish,scorpaenidae,demersal,41.8 tl,4.0,native
+scorpaenodes arenai,messina rockfish,scorpaenidae,demersal,11.0 tl,3.5,native
+scyliorhinus canicula,lesser spotted dogfish,scyliorhinidae,demersal,100.0 tl,3.8,native
+scyliorhinus duhamelii,duhamel's catshark,scyliorhinidae,demersal,43.6 tl,3.8,native
+scyliorhinus stellaris,nursehound,scyliorhinidae,reef-associated,170.0 tl,4.0,native
+scyris alexandrina,alexandria pompano,carangidae,pelagic-neritic,100.0 tl,3.6,native
+sebastapistes mauritiana,spineblotch scorpionfish,scorpaenidae,reef-associated,9.5 tl,3.8,questionable
+seriola carpenteri,guinean amberjack,carangidae,benthopelagic,72.5 tl,4.6,introduced
+seriola dumerili,greater amberjack,carangidae,reef-associated,190.0 tl,4.7,native
+seriola fasciata,lesser amberjack,carangidae,benthopelagic,67.5 fl,4.6,introduced
+serranus atricauda,blacktail comber,serranidae,demersal,43.2 tl,4.3,native
+serranus cabrilla,comber,serranidae,demersal,40.0 sl,3.3,native
+serranus hepatus,brown comber,serranidae,demersal,25.0 tl,3.5,native
+serranus scriba,painted comber,serranidae,demersal,36.0 sl,3.8,native
+serrivomer lanceolatoides,bronze sawtooth eel,serrivomeridae,bathypelagic,65.0 tl,3.5,native
+siganus luridus,dusky spinefoot,siganidae,reef-associated,30.0 tl,2.0,introduced
+siganus rivulatus,marbled spinefoot,siganidae,reef-associated,30.2 tl,2.0,introduced
+silhouettea aegyptia,red sea goby,gobiidae,demersal,5.0 tl,3.5,introduced
+sillago suezensis,,sillaginidae,reef-associated,18.5 sl,3.3,introduced
+solea aegyptiaca,egyptian sole,soleidae,demersal,65.0 tl,3.2,native
+solea senegalensis,senegalese sole,soleidae,demersal,60.0 sl,3.3,native
+solea solea,common sole,soleidae,demersal,70.0 sl,3.2,native
+somniosus rostratus,little sleeper shark,somniosidae,bathydemersal,143.0 tl,4.2,native
+sparisoma cretense,parrotfish,scaridae,reef-associated,50.0 tl,2.9,native
+sparus aurata,gilthead seabream,sparidae,demersal,70.0 tl,3.7,native
+speleogobius llorisi,llori's grotto goby,gobiidae,benthopelagic,2.7 sl,3.1,native
+speleogobius trigloides,grotto goby,gobiidae,demersal,1.8 sl,3.0,endemic
+sphoeroides marmoratus,guinean puffer,tetraodontidae,demersal,20.0 tl,3.4,introduced
+sphoeroides pachygaster,blunthead puffer,tetraodontidae,benthopelagic,40.5 sl,4.2,introduced
+sphyraena chrysotaenia,yellowstripe barracuda,sphyraenidae,pelagic-neritic,32.2 tl,4.0,introduced
+sphyraena flavicauda,yellowtail barracuda,sphyraenidae,reef-associated,60.0 tl,4.2,introduced
+sphyraena intermedia,,sphyraenidae,reef-associated,74.5 sl,4.3,native
+sphyraena obtusata,obtuse barracuda,sphyraenidae,reef-associated,55.0 tl,4.5,introduced
+sphyraena pinguis,red barracuda,sphyraenidae,pelagic-neritic,50.0 tl,4.5,introduced
+sphyraena sphyraena,european barracuda,sphyraenidae,pelagic-neritic,165.0 tl,4.0,native
+sphyraena viridensis,yellowmouth barracuda,sphyraenidae,pelagic-neritic,128.0 fl,4.3,native
+sphyrna lewini,scalloped hammerhead,sphyrnidae,pelagic-oceanic,430.0 tl,4.1,native
+sphyrna mokarran,great hammerhead,sphyrnidae,pelagic-oceanic,610.0 tl,4.3,native
+sphyrna tudes,smalleye hammerhead,sphyrnidae,benthopelagic,148.0 tl,3.6,native
+sphyrna zygaena,smooth hammerhead,sphyrnidae,pelagic-oceanic,500.0 tl,4.9,native
+spicara flexuosum,,sparidae,demersal,23.2 tl,3.4,native
+spicara maena,blotched picarel,sparidae,pelagic-neritic,25.0 sl,4.2,native
+spicara smaris,picarel,sparidae,pelagic-neritic,24.2 tl,3.0,native
+spondyliosoma cantharus,black seabream,sparidae,benthopelagic,60.0 sl,3.3,native
+spratelloides delicatulus,delicate round herring,spratelloididae,reef-associated,7.0 sl,3.1,introduced
+sprattus sprattus,european sprat,clupeidae,pelagic-neritic,16.0 sl,3.0,native
+squalus acanthias,piked dogfish,squalidae,bathydemersal,160.0 tl,4.4,native
+squalus blainville,longnose spurdog,squalidae,demersal,121.6 tl,4.0,native
+squalus megalops,shortnose spurdog,squalidae,demersal,89.0 tl,4.3,native
+squatina aculeata,sawback angelshark,squatinidae,demersal,188.0 tl,4.0,native
+squatina oculata,smoothback angelshark,squatinidae,demersal,160.0 tl,4.0,native
+squatina squatina,angelshark,squatinidae,demersal,244.0 tl,4.1,native
+stephanolepis diaspros,reticulated leatherjacket,monacanthidae,demersal,25.0 tl,4.6,introduced
+stolephorus indicus,indian anchovy,engraulidae,pelagic-neritic,15.5 sl,3.4,introduced
+stolephorus insularis,hardenberg's anchovy,engraulidae,pelagic-neritic,8.0 sl,3.3,introduced
+stomias boa,boa dragonfish,stomiidae,bathypelagic,32.2 sl,4.0,native
+stromateus fiatola,blue butterfish,stromateidae,benthopelagic,50.0 sl,4.0,native
+sudis hyalina,,sudidae,bathypelagic,100.0 tl,4.5,native
+symbolophorus veranyi,large-scale lantern fish,myctophidae,bathypelagic,12.5 tl,3.3,native
+symphodus bailloni,baillon's wrasse,labridae,reef-associated,20.0 sl,3.5,native
+symphodus cinereus,grey wrasse,labridae,demersal,16.0 tl,3.5,native
+symphodus doderleini,,labridae,demersal,10.0 sl,3.4,endemic
+symphodus mediterraneus,axillary wrasse,labridae,demersal,18.0 sl,3.2,native
+symphodus melops,corkwing wrasse,labridae,reef-associated,28.0 sl,3.4,native
+symphodus ocellatus,,labridae,reef-associated,18.5 tl,3.4,native
+symphodus roissali,five-spotted wrasse,labridae,reef-associated,17.0 sl,3.5,native
+symphodus rostratus,sublet,labridae,reef-associated,17.7 tl,3.4,native
+symphodus tinca,east atlantic peacock wrasse,labridae,reef-associated,44.0 sl,3.3,native
+symphodus trutta,emerald wrasse,labridae,reef-associated,18.0 tl,3.5,native
+symphurus ligulatus,elongate tonguesole,cynoglossidae,demersal,12.8 tl,3.5,native
+symphurus nigrescens,tonguesole,cynoglossidae,demersal,12.3 tl,3.3,native
+synagrops japonicus,blackmouth splitfin,synagropidae,benthopelagic,35.0 sl,4.3,native
+synanceia verrucosa,stonefish,synanceiidae,reef-associated,40.0 sl,4.3,introduced
+synapturichthys kleinii,klein's sole,soleidae,demersal,40.0 tl,3.6,native
+synchiropus phaeton,phaeton dragonet,callionymidae,demersal,18.0 tl,3.4,native
+synchiropus sechellensis,seychelles dragonet,callionymidae,demersal,3.8 sl,3.2,introduced
+syngnathus abaster,black-striped pipefish,syngnathidae,demersal,22.1 sl,3.2,native
+syngnathus acus,greater pipefish,syngnathidae,demersal,50.0 tl,3.3,native
+syngnathus phlegon,,syngnathidae,pelagic-neritic,20.0 tl,3.5,native
+syngnathus rostellatus,nilsson's pipefish,syngnathidae,demersal,18.5 tl,3.7,introduced
+syngnathus taenionotus,,syngnathidae,demersal,19.0 tl,3.4,endemic
+syngnathus tenuirostris,narrow-snouted pipefish,syngnathidae,demersal,,3.3,native
+syngnathus typhle,broadnosed pipefish,syngnathidae,demersal,35.0 tl,4.3,native
+synodus saurus,atlantic lizardfish,synodontidae,demersal,40.0 sl,4.5,native
+taeniurops grabatus,round stingray,dasyatidae,demersal,250.0 tl,4.0,native
+taurulus bubalis,longspined bullhead,cottidae,demersal,25.0 sl,3.6,native
+terapon jarbua,jarbua terapon,terapontidae,demersal,36.0 tl,3.9,introduced
+terapon puta,small-scaled terapon,terapontidae,benthopelagic,30.0 tl,3.4,introduced
+terapon theraps,largescaled terapon,terapontidae,reef-associated,30.0 sl,3.7,introduced
+tetragonurus cuvieri,smalleye squaretail,tetragonuridae,bathypelagic,70.0 tl,3.8,native
+tetrapturus belone,mediterranean spearfish,istiophoridae,pelagic-oceanic,240.0 tl,4.3,endemic
+tetrapturus georgii,roundscale spearfish,istiophoridae,pelagic-oceanic,184.0 fl,4.3,native
+tetronarce nobiliana,electric ray,torpedinidae,benthopelagic,180.0 tl,4.5,native
+thalassoma pavo,ornate wrasse,labridae,reef-associated,25.0 sl,3.7,native
+thorogobius ephippiatus,leopard-spotted goby,gobiidae,demersal,13.0 tl,3.0,native
+thorogobius macrolepis,large-scaled goby,gobiidae,demersal,6.5 tl,3.2,endemic
+thunnus alalunga,albacore,scombridae,pelagic-oceanic,140.0 fl,4.3,native
+thunnus albacares,yellowfin tuna,scombridae,pelagic-oceanic,239.0 fl,4.4,misidentification
+thunnus obesus,bigeye tuna,scombridae,pelagic-oceanic,250.0 tl,4.4,introduced
+thunnus thynnus,atlantic bluefin tuna,scombridae,pelagic-oceanic,458.0 tl,4.4,native
+thymallus thymallus,grayling,salmonidae,benthopelagic,60.0 tl,3.1,native
+torpedo alexandrinsis,alexandrine torpedo,torpedinidae,demersal,,4.3,questionable
+torpedo marmorata,marbled electric ray,torpedinidae,reef-associated,100.0 tl,4.6,native
+torpedo sinuspersici,variable torpedo ray,torpedinidae,reef-associated,130.0 tl,4.5,questionable
+torpedo torpedo,common torpedo,torpedinidae,demersal,60.0 tl,4.3,native
+torquigener flavimaculosus,yellowspotted puffer,tetraodontidae,reef-associated,16.0 tl,3.3,introduced
+trachinotus ovatus,pompano,carangidae,pelagic-neritic,70.0 tl,4.2,native
+trachinus araneus,spotted weever,trachinidae,demersal,45.0 sl,4.0,native
+trachinus draco,greater weever,trachinidae,demersal,53.0 tl,3.9,native
+trachinus radiatus,starry weever,trachinidae,demersal,50.0 tl,3.9,native
+trachipterus arcticus,dealfish,trachipteridae,bathypelagic,300.0 tl,4.5,native
+trachipterus trachypterus,mediterranean dealfish,trachipteridae,bathypelagic,300.0 tl,2.9,native
+trachurus mediterraneus,mediterranean horse mackerel,carangidae,pelagic-oceanic,60.0 fl,3.8,native
+trachurus picturatus,blue jack mackerel,carangidae,benthopelagic,60.0 tl,3.3,native
+trachurus trachurus,atlantic horse mackerel,carangidae,pelagic-neritic,70.0 tl,3.7,native
+trachyrincus scabrus,roughsnout grenadier,trachyrincidae,bathydemersal,60.0 tl,3.6,native
+trachyscorpia echinata,spiny scorpionfish,sebastidae,bathydemersal,56.9 tl,4.2,introduced
+trichiurus lepturus,largehead hairtail,trichiuridae,benthopelagic,234.0 tl,4.4,native
+tridentiger trigonocephalus,chameleon goby,gobiidae,demersal,11.0 tl,3.4,introduced
+trigla lyra,piper gurnard,triglidae,bathydemersal,60.0 tl,3.9,native
+tripterygion delaisi,black-faced blenny,tripterygiidae,demersal,8.9 tl,3.4,native
+tripterygion melanurus,,tripterygiidae,demersal,5.3 tl,3.5,endemic
+tripterygion tripteronotum,,tripterygiidae,demersal,8.0 tl,3.4,native
+trisopterus capelanus,,gadidae,benthopelagic,32.0 tl,3.7,endemic
+trisopterus luscus,pouting,gadidae,benthopelagic,46.0 tl,3.7,native
+trisopterus minutus,poor cod,gadidae,benthopelagic,40.0 tl,3.7,misidentification
+trypauchen vagina,,gobiidae,demersal,22.0 tl,3.5,introduced
+tylerius spinosissimus,spiny blaasop,tetraodontidae,bathydemersal,12.0 tl,3.3,introduced
+tylosurus acus,agujon needlefish,belonidae,reef-associated,153.0 tl,4.5,native
+tylosurus choram,red sea houndfish,belonidae,pelagic-oceanic,120.0 tl,4.4,introduced
+tylosurus imperialis,,belonidae,pelagic-oceanic,140.0 sl,4.5,native
+umbrina canariensis,canary drum,sciaenidae,demersal,80.0 tl,3.4,native
+umbrina cirrosa,shi drum,sciaenidae,demersal,104.0 tl,3.4,native
+umbrina ronchus,fusca drum,sciaenidae,demersal,100.0 tl,3.4,native
+upeneus moluccensis,goldband goatfish,mullidae,reef-associated,22.5 tl,3.6,introduced
+upeneus pori,por's goatfish,mullidae,demersal,19.0 tl,3.5,introduced
+uranoscopus scaber,stargazer,uranoscopidae,demersal,56.4 tl,4.4,native
+urogymnus asperrimus,porcupine whipray,dasyatidae,reef-associated,147.0 wd,3.5,questionable
+valenciennellus tripunctulatus,constellationfish,sternoptychidae,bathypelagic,,3.1,native
+vanderhorstia mertensi,mertens' prawn-goby,gobiidae,reef-associated,11.0 tl,3.3,introduced
+vanneaugobius dollfusi,dollfus' goby,gobiidae,demersal,,3.1,native
+vanneaugobius pruvoti,pruvot's goby,gobiidae,demersal,3.9 tl,3.1,native
+vinciguerria attenuata,slender lightfish,phosichthyidae,bathypelagic,4.5 tl,3.0,native
+vinciguerria poweriae,power's deep-water bristle-mouth fish,phosichthyidae,bathypelagic,4.3 tl,3.1,native
+xiphias gladius,swordfish,xiphiidae,pelagic-oceanic,455.0 fl,4.5,native
+xyrichtys novacula,pearly razorfish,labridae,reef-associated,38.0 tl,3.5,native
+zebrus pallaoroi,pallaoro's goby,gobiidae,benthopelagic,3.2 sl,3.1,native
+zebrus zebrus,,gobiidae,demersal,5.5 tl,3.2,native
+zenopsis conchifer,silvery john dory,zeidae,benthopelagic,80.0 tl,4.4,introduced
+zeugopterus punctatus,topknot,scophthalmidae,demersal,25.0 sl,4.0,native
+zeugopterus regius,eckström's topknot,scophthalmidae,demersal,20.0 tl,4.0,native
+zeus faber,john dory,zeidae,benthopelagic,90.0 tl,4.5,native
+zu cristatus,scalloped ribbonfish,trachipteridae,bathypelagic,118.0 sl,4.5,native

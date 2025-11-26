@@ -79,7 +79,14 @@ Notes regarding implementation, past ideas, ones of our own etc.
 
 ### Past Approaches
 
-Notes on past approacehs.
+Notes on past approaches.
+
+#### LSTM, CNN, RF
+
+They have used three architectures to predict SST and then used those predictions to predict accurately (>50%) MHWs.
+
+1. LSTMs in general work better. Then RFs, then CNNs.
+2. In some cases, LSTMs are better than Copernicus MedFS.
 
 ### Our Approaches
 
