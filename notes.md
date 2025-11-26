@@ -95,3 +95,7 @@ Notes on our approaches.
 #### Predicting Temperature
 
 **Idea:** We first predict temperature based on past data and then spot any MHWs by properly annotating our predictions.
+
+## Expert Feedback
+
+Consider using some sort of fish data from various locations (?)

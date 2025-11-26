@@ -5,4 +5,4 @@ class Config:
     """API configuration."""
 
     SQLALCHEMY_DATABASE_URI = "sqlite:///:memory:"
-    NCDATAPATH = "../datasets/local/copmed.nc"
+    NCDATAPATH = "../datasets/local/copmedgr.nc"

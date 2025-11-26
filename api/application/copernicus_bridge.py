@@ -22,8 +22,8 @@ class NCPoint:
 class CopernicusBridge:
     def __init__(self,
         path: str,
-        min_b=NCPoint(30.19, -17.29, 1.018, pd.to_datetime('2025-05-01', format="%Y-%m-%d")),
-        max_b=NCPoint(45.98, 36.29, 5.465, pd.to_datetime('2025-09-30', format="%Y-%m-%d"))
+        min_b=NCPoint(34.63012640268585, 21.615530642077037, 1.0182366371154785, pd.to_datetime('2023-11-01', format="%Y-%m-%d")),
+        max_b=NCPoint(41.0601264789798, 28.79103797359347, 29.885643005371094, pd.to_datetime('2025-11-30', format="%Y-%m-%d"))
     ) -> None:
         self._path = path
         self._data = xr.open_dataset(self._path)

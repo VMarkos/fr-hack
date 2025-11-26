@@ -7,3 +7,4 @@ venv/
 
 # Ignore large dataset file
 datasets/local/copmed.nc
+datasets/local/copmedgr.nc
