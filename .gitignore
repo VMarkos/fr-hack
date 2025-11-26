@@ -1,2 +1,5 @@
 # Ignore local venv, in directory `venv`
 venv/
+
+# Ignore large dataset file
+datasets/local/copmed.nc
