@@ -38,11 +38,15 @@ def sst_at():
     if point not in bridge:
         return { "message": "Point not in range." }, 404
     sst = bridge.get_sst_at(point)
+    if sst == np.nan:
+        sst = None
+    else:
+        sst = float(sst)
     resp = {
         "lat": float(lat), 
         "lon": float(lon),
         "depth": depth,
         "time": str(time),
-        "sst": float(sst),
+        "sst": sst,
     }
     return resp, 200
