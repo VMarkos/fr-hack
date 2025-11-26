@@ -8,18 +8,13 @@
 ├── api
 │   ├── application
 │   │   ├── config.py
+│   │   ├── copernicus_bridge.py
 │   │   ├── __init__.py
 │   │   ├── models.py
 │   │   ├── __pycache__
-│   │   │   ├── config.cpython-311.pyc
-│   │   │   ├── __init__.cpython-311.pyc
-│   │   │   ├── models.cpython-311.pyc
-│   │   │   ├── routes.cpython-311.pyc
-│   │   │   └── utils.cpython-311.pyc
+│   │   │   └── copernicus_bridge.cpython-311.pyc
 │   │   ├── routes.py
 │   │   └── utils.py
-│   ├── __pycache__
-│   │   └── wsgi.cpython-311.pyc
 │   └── wsgi.py
 ├── datasets
 │   ├── FishBase
@@ -37,6 +32,7 @@
 │   │   │   └── s_study_Bennett.txt
 │   │   └── preprocess.py
 │   ├── local
+│   │   ├── copmed.nc
 │   │   └── medfishtemp.csv
 │   └── MedFaunaTp
 │       └── MedTemp.csv
@@ -53,8 +49,7 @@
 └── requirements.txt
 ```
 
-16 directories, 32 files
- (excluding `venv` directory)
+15 directories, 29 files (excluding `venv` directory)
 
 ## Requirements
 
@@ -103,7 +98,7 @@ information about minimum and maximum temperatures from various sources. An indi
 For instance, the following `GET` request:
 
 ```
-http://127.0.0.1:5000/api/fishPreferredTemperature?species=Dicentrarchus labrax
+/api/fishPreferredTemperature?species=Dicentrarchus labrax
 ```
 
 yields the following JSON response:
@@ -123,7 +118,7 @@ yields the following JSON response:
 Similarly, the following request:
 
 ```
-http://127.0.0.1:5000/api/fishPreferredTemperature?species=Diplodus vulgaris
+/api/fishPreferredTemperature?species=Diplodus vulgaris
 ```
 
 yields this response, in which min and max thermal tolerance data are missing:
@@ -143,7 +138,7 @@ yields this response, in which min and max thermal tolerance data are missing:
 Also, in case of a species not listed in our database, such as:
 
 ```
-http://127.0.0.1:5000/api/fishPreferredTemperature?species=Pisces imaginarium
+/api/fishPreferredTemperature?species=Pisces imaginarium
 ```
 
 a self-explanatory response is returned (with a `404` status code):
@@ -151,6 +146,40 @@ a self-explanatory response is returned (with a `404` status code):
 ```json
 {
     "message": "Fish not found!"
+}
+```
+
+#### `api/sstAt` (`GET`)
+
+This endpoint, given lat, lon and datetime, returns the temerature at this point in space time or a corresponding error. Valid values for the above coordinates include:
+
+* `lat`: 30.19 - 45.98
+* `lon`: -17.29 - 36.29
+* `time`: 2025-05-01 - 2025-09-30
+
+For testing purposes, the API is currently sharing data from a static dataset, as downloaded from [https://data.marine.copernicus.eu/product/MEDSEA_ANALYSISFORECAST_PHY_006_013/download?dataset=cmems_mod_med_phy-tem_anfc_4.2km_P1D-m_202511](https://data.marine.copernicus.eu/product/MEDSEA_ANALYSISFORECAST_PHY_006_013/download?dataset=cmems_mod_med_phy-tem_anfc_4.2km_P1D-m_202511) using the following query:
+
+```
+copernicusmarine subset --dataset-id cmems_mod_med_phy-tem_anfc_4.2km_P1D-m --variable bottomT --variable thetao --start-datetime 2025-05-01T00:00:00 --end-datetime 2025-09-30T00:00:00 --minimum-longitude -17.29166603088379 --maximum-longitude 36.29166793823242 --minimum-latitude 30.1875 --maximum-latitude 45.97916793823242 --minimum-depth 1.0182366371154785 --maximum-depth 5.464963436126709
+```
+
+This can be directly substituted with live data, provided sufficient data availability.
+
+For instance, the following request:
+
+```
+/api/sstAt?lat=37.18&lon=-1.27&time=2025-08-11
+```
+
+should return something along the following lines:
+
+```json
+{
+  "depth": 1.018,
+  "lat": 37.18000030517578,
+  "lon": -1.2699999809265137,
+  "sst": 27.02207374572754,
+  "time": "2025-08-11 00:00:00"
 }
 ```
 
