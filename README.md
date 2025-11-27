@@ -183,6 +183,48 @@ should return something along the following lines:
 }
 ```
 
+#### `/api/upcomingMHW` (`GET`)
+
+Get the latest MHW and whether it is upcoming or not. Expected parameters:
+
+* `lat`;
+* `lon`;
+* `time`;
+* `depth` (default value: surface);
+* `species`.
+
+The prediction is species-specific, providing a severity index for that particular species. For example, a request like the following:
+
+```
+/api/upcomingMHW?lat=23.081588745117188&lon=37.86455455760559&time=2025-05-01&species=dicentrarchus%20labrax
+```
+
+yields:
+
+```json
+{
+  "avg_intensity": 1.2518544966174736,
+  "call_to_action": "Less feeding",
+  "cum_intensity": 6.2592724830873685,
+  "duration": 5,
+  "max_intensity": 1.5933010347427903,
+  "predicted_sst": [
+    17.577491760253906,
+    17.437498092651367,
+    17.51605987548828,
+    17.624271392822266,
+    17.70075798034668,
+    17.56235122680664,
+    17.0979061126709
+  ],
+  "severity": 1,
+  "start_date": "Sat, 20 Sep 2025 00:00:00 GMT",
+  "upcoming_mhw": true
+}
+```
+
+Severity is computed based on the relative distance between the predicted MHW peak and the species' preferred temperatured, normalised using that species CTmax.
+
 ## Data Sources
 
 <a id="DataSources">Data sources</a> utilised to populate our databases.
